@@ -1,4 +1,4 @@
-# Optional FAQ Index
+# INTERMAGNET FAQs
 
 > *(updated and kept in sync manually)*
 
