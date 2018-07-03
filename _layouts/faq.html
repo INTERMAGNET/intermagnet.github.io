@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include head.html %}
+    <link rel="stylesheet" href="{{ site.url }}/css/faq.css"/>
+</head>
+
+<body>
+  {% include header.html %}
+  <p>
+    <a href="../faq.html">Back to FAQ Index</a>
+  </p>
+
+  <main>
+    <section class="page-wrapper">
+
+      <dl>
+        <dt>{{ page.title }}</dt>
+        <dd>
+            {{content}}
+        </dd>
+      </dl>
+    </section>
+  </main>
+
+  {% include footer.html %}
+</body>
+
+{% include foot.html %}
+</html>
