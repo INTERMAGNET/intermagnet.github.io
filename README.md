@@ -6,17 +6,35 @@ This project includes the files for INTERMAGNET github organization pages, which
 The INTERMAGNET website is available at http://intermagnet.org/ .
 
 
-## Preview
 
-Install Jekyll from https://jekyllrb.com/
+## Examples
 
-From the root of this project, run:
-```
-jekyll serve
-```
+### [Markdown in a file](./faq_md.md)
 
-## Repository Layout
+Pros:
+- One file with all FAQs.
 
-Site configuration is in `_config.yml`.
+Cons:
+- File may get very large.
 
-FAQs are in `_faq`.
+
+### [Markdown in a directory](./faq_md_directory/)
+
+Pros:
+- One file per FAQ.
+- Optionally maintain separate index
+
+Cons:
+- Files listed before index.
+- Have to maintain separate index.
+
+
+### [Jekyll based template](https://intermagnet.github.io/)
+
+Pros:
+- One file per FAQ.
+- Automatically generated index
+- Template can include links on all pages
+
+Cons:
+- Uses Jekyll system, which may be less easy to understand.
