@@ -1,0 +1,11 @@
+title: INTERMAGNET Github Organization Pages
+author: INTERMAGNET
+description: International Real-time Magnetic Observatory Network
+
+defaults:
+  -
+    values:
+      layout: "default"
+collections:
+  faq:
+    output: true
