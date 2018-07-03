@@ -1,7 +1,8 @@
-# INTERMAGNET FAQs
+---
+title: "What data should I send to INTERMAGNET?"
+layout: "faq"
+---
 
-
-## What data should I send to INTERMAGNET?
 
 To join INTERMAGNET you need to be able to send provisional real-time minute
 mean data to one of the Geomagnetic Information Nodes within 72 hours of
@@ -21,14 +22,4 @@ from 1-second data.
 - If you are able to send quasi definitive data, this would
 be particularly welcome at the present time in support of satellite measurements
 of the geomagnetic field. See the question What is quasi-definitive data?
-
-
-## How do I get a real-time data feed from INTERMAGNET?
-
-INTERMAGNET data is available via FTP. Automated processes can interrogate the
-INTERMANGET FTP site frequently to discover whether new data is available and to
-download it if it is. This offers users the ability to retrieve data from
-INTERMAGNET in real-time. You will need a username and password to gain access
-to the FTP site – to request this access contact
-NRCan.geomag-webmaster-geomag-webmaster.RNCan@canada.ca
 
