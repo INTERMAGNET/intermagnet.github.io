@@ -6,9 +6,16 @@ This project includes the files for INTERMAGNET github organization pages, which
 The INTERMAGNET website is available at http://intermagnet.org/ .
 
 
-## Repository Layout
+## Preview
 
-The github organization pages use Jekyll https://jekyllrb.com/ .
+Install Jekyll from https://jekyllrb.com/
+
+From the root of this project, run:
+```
+jekyll serve
+```
+
+## Repository Layout
 
 Site configuration is in `_config.yml`.
 
