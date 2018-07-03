@@ -5,6 +5,8 @@ The simple way
 
 You can edit the contents of this site directly in GitHub just using a web browser.
 
+You can learn how to edit a Markdown file here (it's quite simple): https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+
 
 The comprehensive way
 ---------------------
