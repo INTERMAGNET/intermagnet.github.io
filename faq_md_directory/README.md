@@ -2,5 +2,5 @@
 
 > *(updated and kept in sync manually)*
 
-1. [./what-data-should-I-send.md](What data should I send to INTERMAGNET?)
-1. [./how-do-I-get-realtime-data.md](How do I get a real-time data feed from INTERMAGNET?)
+1. [What data should I send to INTERMAGNET?](./what-data-should-I-send.md)
+1. [How do I get a real-time data feed from INTERMAGNET?](./how-do-I-get-realtime-data.md)
