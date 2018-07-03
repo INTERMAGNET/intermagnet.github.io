@@ -2,4 +2,6 @@
 title: INTERMAGNET Index page
 ---
 
-<p>This is the index page</p>
+This is the index page.
+
+[./faq.md](Frequently Asked Questions)
