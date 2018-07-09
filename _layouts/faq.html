@@ -1,22 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    {% include head.html %}
-    <link rel="stylesheet" href="{{ site.url }}/css/faq.css"/>
+  {% include head.html %}
+  <link rel="stylesheet" href="{{ site.url }}/css/faq.css"/>
 </head>
 
 <body>
   {% include header.html %}
-  <p>
-    <a href="../faq.html">Back to FAQ Index</a>
-  </p>
+  <main role="main" class="container">
+    <h1>{{ page.title }}</h1>
 
-  <main>
-    <section class="page-wrapper">
-      <h2>{{ page.title }}</h2>
+    {{content}}
 
-      {{content}}
-    </section>
+    <hr />
+    <p><a href="/faq.html">Back to FAQ Index</a></p>
   </main>
 
   {% include footer.html %}
