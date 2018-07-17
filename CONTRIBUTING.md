@@ -51,11 +51,17 @@ More information on grip [here](https://github.com/joeyespo/grip).
 
 3) Run Jekyll like this (from the same folder as step 2): ```bundle exec jekyll serve```
 
+4) Rebuild Jekyll when there are changes: ```bundle exec jekyll build --watch```
+   The --watch option means  you can edit pages and see the site will immediately
+   be re-built.
+
 4) View the site in a browser use this URL: ```http://localhost:4000/```
 
 More information on Jekyll 
 [here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
 
+Some useful Jeykll commands (when using Jekyll locally)
+[here](https://jekyllrb.com/docs/usage/)
 
 # Adding new pages and folders
 

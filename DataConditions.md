@@ -1,10 +1,10 @@
+---
+title: INTERMAGNET Data
+---
+
 **DRAFT - This is a draft website page - DRAFT**
 
-# INTERMAGNET Data
-
-INTERMAGNET data are available as magnetograms or as digital data files. Geomagnetic data can be downloaded via your browser. The availability of preliminary data files is dependant on the publishing delay of participating institutes. Pre-INTERMAGNET data may be available via one of the World Data Centres for Geomagnetism (WDC) or the observatory contact of the specific Magnetic Observatories, which can be found in the 'Observatories' section of this website.
-
-Geomagnetic data can also be downloaded via the INTERMAGNET FTP.
+INTERMAGNET data are available as digital data files, via the INTERMAGNET web site [www.intermagnet.org](www.intermagnet.org), or via INTERMAGNET's ftp server [ftp.seismo.nrcan.gc.ca](ftp://ftp.seismo.nrcan.gc.ca). The availability of preliminary data files is dependant on the publishing delay of participating institutes. Pre-INTERMAGNET data may be available via one of the World Data Centres for Geomagnetism (WDC) or the observatory contact of the specific Magnetic Observatories, which can be found [here](http://www.intermagnet.org/imos/imotblobs-eng.php).
 
 Plots can be generated for all INTERMAGNET data available through this web site.
 
@@ -13,10 +13,17 @@ Plots can be generated for all INTERMAGNET data available through this web site.
 
 The member institutes of INTERMAGNET invest considerable resources to operate their magnetic observatories to INTERMAGNET standards. It is important that the institutes producing the data have a measure of the scientific return on their investment. 
 
-The data made available through INTERMAGNET are provided for your use and are not for commercial use or sale or bulk distribution to third parties without the written permission of the institute operating the observatory. Publications making use of the data should include an acknowledgment statement of the form given below. A citation reference should be sent to the INTERMAGNET Secretary (secretary@intermagnet.org) for inclusion in a publications list on the INTERMAGNET website.
+The data made available through INTERMAGNET are provided for your use and are not for commercial use or sale or bulk distribution to third parties without the written permission of the institute operating the observatory. Publications making use of the data should include an acknowledgment statement of the form given below. A citation reference should be sent to the INTERMAGNET Secretary for inclusion in a publications list on the INTERMAGNET website.. The secretary's address can be found here: (www.intermagnet.org/structops-eng.php). 
 
+<!-- This section copied from Creative Commons - please don't change -->
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Unless otherwise noted, data downloaded through INTERMAGNET is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
+
+### Institutes with different license conditions
+
+| Institute | Observatories | License details                      |
+| --------- | ------------- | ---------------                      |
+| Example   | EXA, EXB      | http:/example.org/data/licenses.html |
 
 ## Acknowledgement of data from observatories participating in INTERMAGNET
 
