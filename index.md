@@ -5,7 +5,7 @@ Welcome to INTERMAGNET - the global network of observatories, monitoring the Ear
 
 ## Documents
 
-- [Frequently Asked Questions](faq.html)
+- [Frequently Asked Questions](/faq/)
 
 ## Projects
 
