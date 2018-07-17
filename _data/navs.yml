@@ -1,8 +1,66 @@
-- name: Home
+- name: Home*
   href: /
 
-- name: FAQ
-  href: /faq/
+- name: About Us
+  subnavs:
+    - name: History*
+      href: http://www.intermagnet.org/history-eng.php
+    - name: Vision and Mission*
+      href: http://www.intermagnet.org/mission-eng.php
+    - name: Principles, Conditions, and Policies*
+      href: http://www.intermagnet.org/term-eng.php
+    - name: Organizational Structure*
+      href: http://www.intermagnet.org/structops-eng.php
+    - name: Geomagnetic Information Nodes*
+      href: http://www.intermagnet.org/gins-eng.php
+    - name: FAQ*
+      href: /faq/
 
-- name: intermagnet.org
-  href: http://www.intermagnet.org
+- name: Products and Services
+  subnavs:
+    - name: Data Conditions*
+      href: /DataConditions.html
+    - name: Data Download
+      href: http://www.intermagnet.org/data-donnee/download-eng.php
+    - name: Data Formats*
+      href: http://www.intermagnet.org/data-donnee/formatdata-eng.php
+    - name: Observatory Plots
+      href: http://www.intermagnet.org/data-donnee/dataplot-eng.php
+    - name: Membership Application Form*
+      href: http://www.intermagnet.org/imos/apply-eng.php
+    - name: Geomagnetic Activity Map
+      href: http://www.intermagnet.org/activitymap/activitymap-eng.php
+    - name: CD-ROM/DVDs
+      href: http://www.intermagnet.org/data-donnee/cdrom/cddata-eng.php
+
+  
+- name: Observatories (IMOs)
+  subnavs:
+    - name: List of IMOs and Responsible GINs
+      href: http://www.intermagnet.org/imos/imotblobs-eng.php
+    - name: Magnetic Observatories Map
+      href: http://www.intermagnet.org/imos/imomap-eng.php
+    - name: Participating Observatories (Photographs)
+      href: http://www.intermagnet.org/imos/imophoto-eng.php
+    - name: Membership Application Form*
+      href: http://www.intermagnet.org/imos/apply-eng.php
+
+
+- name: Participating Institutes
+  href: /institutes/
+
+- name: Publications
+  subnavs:
+    - name: Technical Reference Manual*
+      href: http://www.intermagnet.org/publication-software/technicalsoft-eng.php
+    - name: Publications*
+      href: http://www.intermagnet.org/publication-software/publications-eng.php
+    - name: Meetings*
+      href: http://www.intermagnet.org/publication-software/meetings-eng.php
+    - name: Software*
+      href: http://www.intermagnet.org/publication-software/software-eng.php
+    - name: Yearbooks*
+      href: http://www.intermagnet.org/publication-software/yearbooks-eng.php
+
+- name: Contact Us*
+  href: http://www.intermagnet.org/contact-eng.php
