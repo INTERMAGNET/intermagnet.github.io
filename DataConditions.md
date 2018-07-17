@@ -8,16 +8,14 @@ INTERMAGNET data are available as digital data files, via the INTERMAGNET web si
 
 Plots can be generated for all INTERMAGNET data available through this web site.
 
-
 ## Conditions of Use
 
-The member institutes of INTERMAGNET invest considerable resources to operate their magnetic observatories to INTERMAGNET standards. It is important that the institutes producing the data have a measure of the scientific return on their investment. 
+The member institutes of INTERMAGNET invest considerable resources to operate their magnetic observatories to INTERMAGNET standards. It is important that the institutes producing the data have a measure of the scientific return on their investment.
 
-The data made available through INTERMAGNET are provided for your use and are not for commercial use or sale or bulk distribution to third parties without the written permission of the institute operating the observatory. Publications making use of the data should include an acknowledgment statement of the form given below. A citation reference should be sent to the INTERMAGNET Secretary for inclusion in a publications list on the INTERMAGNET website. The secretary's address can be found [here](http://www.intermagnet.org/structops-eng.php). 
+The data made available through INTERMAGNET are provided for your use and are not for commercial use or sale or bulk distribution to third parties without the written permission of the institute operating the observatory. Publications making use of the data should include an acknowledgment statement of the form given below. A citation reference should be sent to the INTERMAGNET Secretary for inclusion in a publications list on the INTERMAGNET website. The secretary's address can be found [here](http://www.intermagnet.org/structops-eng.php).
 
 <!-- This section copied from Creative Commons - please don't change -->
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Unless otherwise noted, data downloaded through INTERMAGNET is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
-
 
 ### Institutes with different license conditions
 
@@ -28,7 +26,6 @@ The data made available through INTERMAGNET are provided for your use and are no
 ## Acknowledgement of data from observatories participating in INTERMAGNET
 
 We offer two acknowledgement templates. The first is for cases where data from many observatories have been used and it is not practical to list them all, or each of their operating institutes. The second is for cases where research results have been produced using a smaller set of observatories.
-
 
 ### Suggested Acknowledgement Text (template 1)
 

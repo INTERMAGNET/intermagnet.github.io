@@ -67,7 +67,7 @@ bundle exec jekyll serve
 
    More information on Jekyll [here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
    Some useful Jeykll commands (when using Jekyll locally) [here](https://jekyllrb.com/docs/usage/)
-   
+
 4. To view the site in a browser use this URL:
 
 ```bash
@@ -82,5 +82,3 @@ First add the page or folder to the project.
 If you are adding a folder, update the ```_config.yml``` file in the root of the project. Follow how it's done for the 'FAQ' folder. Documentation on the configuration is available [here](https://jekyllrb.com/docs/collections/).
 
 To add a new link to the navigation bar on INTERMAGNET's organization page [https://intermagnet.github.io/](https://intermagnet.github.io/) you need to update ```_data/navs.yml```.
-
-
