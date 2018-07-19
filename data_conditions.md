@@ -2,7 +2,7 @@
 title: INTERMAGNET Data
 ---
 
-**DRAFT - This is a draft website page - DRAFT**
+[**DRAFT - This is a draft website page - DRAFT**]
 
 INTERMAGNET data are available as digital data files, via the INTERMAGNET web site [www.intermagnet.org](www.intermagnet.org), or via INTERMAGNET's ftp server [ftp.seismo.nrcan.gc.ca](ftp://ftp.seismo.nrcan.gc.ca). The availability of preliminary data files is dependant on the publishing delay of participating institutes. Pre-INTERMAGNET data may be available via one of the World Data Centres for Geomagnetism (WDC) or the observatory contact of the specific Magnetic Observatories, which can be found [here](http://www.intermagnet.org/imos/imotblobs-eng.php).
 
