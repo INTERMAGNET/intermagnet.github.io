@@ -1,13 +1,21 @@
-/* Show it is fixed to the top */
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
 body {
     min-height: 75rem;
     padding-top: 4.5rem;
 }
 
+/* CUSTOMIZE CONTENT
+-------------------------------------------------- */
+
+/* General table styling */
 table {
     padding: 0;
     margin: 15px 0;
 }
+
 table tr {
     border-top: 1px solid #cccccc;
     background-color: white;
