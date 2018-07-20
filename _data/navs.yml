@@ -1,22 +1,4 @@
-- name: Home
-  href: /
-
-- name: About Us
-  subnavs:
-    - name: History
-      href: /history.html
-    - name: Vision and Mission
-      href: /mission.html
-    - name: Principles, Conditions, and Policies
-      href: /principles.html
-    - name: Organizational Structure
-      href: /structure.html
-    - name: Geomagnetic Information Nodes
-      href: /gins.html
-    - name: FAQ
-      href: /faq/
-
-- name: Products and Services
+- name: Services
   subnavs:
     - name: Data Conditions
       href: /data_conditions.html
@@ -32,25 +14,6 @@
       href: http://www.intermagnet.org/activitymap/activitymap-eng.php
     - name: CD-ROM/DVDs (external)
       href: http://www.intermagnet.org/data-donnee/cdrom/cddata-eng.php
-
-  
-- name: Observatories (IMOs)
-  subnavs:
-    - name: List of IMOs and Responsible GINs (external)
-      href: http://www.intermagnet.org/imos/imotblobs-eng.php
-    - name: Magnetic Observatories Map (external)
-      href: http://www.intermagnet.org/imos/imomap-eng.php
-    - name: Participating Observatories Photographs (external)
-      href: http://www.intermagnet.org/imos/imophoto-eng.php
-    - name: Membership Application Form
-      href: /membership.html
-
-
-- name: Participating Institutes (external)
-  href: http://www.intermagnet.org/institutes-eng.php
-
-- name: Publications
-  subnavs:
     - name: Technical Reference Manual (external)
       href: http://www.intermagnet.org/publication-software/technicalsoft-eng.php
     - name: Publications
@@ -62,5 +25,31 @@
     - name: Yearbooks (external)
       href: http://www.intermagnet.org/publication-software/yearbooks-eng.php
 
-- name: Contact Us
+- name: Observatories (IMOs)
+  subnavs:
+    - name: List of IMOs and Responsible GINs (external)
+      href: http://www.intermagnet.org/imos/imotblobs-eng.php
+    - name: Magnetic Observatories Map (external)
+      href: http://www.intermagnet.org/imos/imomap-eng.php
+    - name: Participating Observatories Photographs (external)
+      href: http://www.intermagnet.org/imos/imophoto-eng.php
+    - name: Membership Application Form
+      href: /membership.html
+    - name: Participating Institutes (external)
+      href: http://www.intermagnet.org/institutes-eng.php
+
+- name: Other
+  subnavs:
+    - name: Principles, Conditions, and Policies
+      href: /principles.html
+    - name: Organizational Structure
+      href: /structure.html
+    - name: Geomagnetic Information Nodes
+      href: /gins.html
+    - name: FAQ
+      href: /faq/
+
+- name: Contact
   href: /contacts.html
+  
+
