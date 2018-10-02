@@ -41,4 +41,4 @@ The Operations Committee advises the Executive Council on the technical issues t
 | **No. of members** | **10**       | **7**                      | **8**            | **6**            | **5**                                |
 
 - (P) = primary affiliation
-- (S) = secondar affiliation
+- (S) = secondary affiliation
