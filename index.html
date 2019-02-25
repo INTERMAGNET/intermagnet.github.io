@@ -5,103 +5,36 @@ layout: index
 
 <div class="jumbotron">
 <h1>{{ page.title }}</h1>
-  <p>Welcome to INTERMAGNET - the global network of observatories, monitoring the Earth's magnetic field. At this site you can find data and information from geomagnetic observatories around the world.</p>
+    <p>Welcome to INTERMAGNET - the global network of observatories, monitoring the Earth's magnetic field. At this site you can find data and information from geomagnetic observatories around the world.</p>
 
-  <a class="btn btn-primary" href="#services" rel="external" role="button">Services</a>
-  <a class="btn btn-secondary" href="#about-us" rel="external" role="button">About Us</a>
+    <a class="btn btn-primary" href="#services" rel="external" role="button">Services</a>
+    <a class="btn btn-secondary" href="#about-us" rel="external" role="button">About Us</a>
 </div>
 
 <div class="container">
 
-  <h2 id="services">Services</h2>
+    <section id="services">
+        
+        <h2>Services</h2>
 
-  <div class="row">
-    <div class="col-sm-4">
-      <h3>Data</h3>
-      <div class="list-group">
-          <a href="/data_conditions.html" class="list-group-item list-group-item-action">Data Conditions</a>
-          <a href="http://www.intermagnet.org/data-donnee/download-eng.php" class="list-group-item list-group-item-action">Data Download (external)</a>
-          <a href="http://www.intermagnet.org/data-donnee/formatdata-eng.php" class="list-group-item list-group-item-action">Data Format (external)</a>
-          <a href="http://www.intermagnet.org/data-donnee/dataplot-eng.php" class="list-group-item list-group-item-action">Observatory Plots (external)</a>
-          <a href="http://www.intermagnet.org/activitymap/activitymap-eng.php" class="list-group-item list-group-item-action">Geomagnetic Activity Map (external)</a>
-      </div>
-    </div>
-    <div class="col-sm-4">
-      <h3>Observatories</h3>
-      <div class="list-group">
-          <a href="http://www.intermagnet.org/imos/imotblobs-eng.php" class="list-group-item list-group-item-action">IMOs and Responsible GINs (external)</a>
-          <a href="http://www.intermagnet.org/imos/imomap-eng.php" class="list-group-item list-group-item-action">Map (external)</a>
-          <a href="http://www.intermagnet.org/imos/imophoto-eng.php" class="list-group-item list-group-item-action">Photographs (external)</a>
-          <a href="/membership.html" class="list-group-item list-group-item-action">Membership Application Form</a>
-          <a href="http://www.intermagnet.org/institutes-eng.php" class="list-group-item list-group-item-action">Participating Institutes (external)</a>
-      </div>
-    </div>
-    <div class="col-sm-4">
-      <h3>Resources</h3>
-      <div class="list-group">
-          <a href="http://www.intermagnet.org/data-donnee/cdrom/cddata-eng.php" class="list-group-item list-group-item-action">CD-ROM/DVDs (external)</a>
-          <a href="http://www.intermagnet.org/publication-software/technicalsoft-eng.php" class="list-group-item list-group-item-action">Technical Reference Manual (external)</a>
-          <a href="/publications.html" class="list-group-item list-group-item-action">Publications</a>
-          <a href="/meetings.html" class="list-group-item list-group-item-action">Meetings</a>
-          <a href="/software.html" class="list-group-item list-group-item-action">Software</a>
-          <a href="http://www.intermagnet.org/publication-software/yearbooks-eng.php" class="list-group-item list-group-item-action">Yearbooks (external)</a>
-      </div>
-    </div>
-  </div>
+        {% include index/services.html %}
 
-  <h2 id="about-us">About Us</h2>
+    </section>
 
-  <p>The INTERMAGNET programme exists to establish a global network of cooperating digital magnetic observatories, adopting modern standard specifications for measuring and recording equipment, in order to facilitate data exchanges and the production of geomagnetic products in close to real time.</p>
+    <section id="about-us">
 
-  <p>Where local support is lacking it is a further goal of INTERMAGNET to aid in the establishment of new observatories or to provide assistance with the upgrade and maintenance of existing facilities. Supplemental to this aim is the promotion of modern standards for measuring and recording the Earth's magnetic field. INTERMAGNET is constituted from existing groups whose primary task is one of geomagnetic measurement.</p>
+        <h2>About Us</h2>
 
-  <div class="row justify-content-md-center text-center">
-    <div class="col-md-6">
-      <h3>Member</h3>
+        {% include index/about.html %}
 
-      <div class="card" style="width: 18rem;">
-        <img class="card-img-top img-fluid" src="/images/WDS_logo.jpg" alt="ICSU World Data System">
-        <div class="card-body">
-          <a class="btn btn-primary" href="http://www.icsu-wds.org/" rel="external" role="button">ICSU World Data System</a>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-6">
-      <h3>Associated</h3>
+        {% include index/history.html %}
 
-      <div class="card" style="width: 18rem;">
-        <img class="card-img-top img-fluid" src="/images/iaga-logo.png" alt="IAGA Division V">
-        <div class="card-body">
-          <a class="btn btn-primary" href="http://www.iaga-aiga.org/index.php?id=div5" rel="external" role="button">IAGA Division V</a>
-        </div>
-      </div>
-    </div>
-  </div>
+        {% include index/mission.html %}
 
+        {% include index/principles.html %}
 
-  <h3>History</h3>
+        {% include index/structure.html %}
 
-  <p>INTERMAGNET has its roots in discussions held at the Workshop on Magnetic Observatory Instruments in Ottawa, Canada, in August 1986 and at the Nordic Comparison Meeting in Chambon La Foret, France, in May 1987. A pilot scheme between the United States and British Geological Surveys was described in the sessions of Division V of the International Association of Geomagnetism and Aeronomy at the 19th General Assembly of the International Union of Geodesy and Geophysics in Vancouver, Canada, in August 1987. This scheme used the GOES East satellite to successfully transfer geomagnetic data between the two organisations. INTERMAGNET was founded soon after in order to extend the network of observatories communicating in this way. In order to direct the work and oversee the operations of INTERMAGNET, an Executive Council and an Operations Committee were set up. The first Geomagnetic Information Node (GIN) was established in 1991, the first CD-ROM/DVD was also published in 1991.</p>
+  </section>
 
-  <h3>Vision and Mission</h3>
-
-  <dl>
-    <dt>The INTERMAGNET vision is of</dt>
-    <dd>A global, real-time, permanent geomagnetic observatory network, which is recognized as a key Earth observation system and which provides data that serves scientific research into the Earth, from its deep interior to space, and supports operational services benefiting society.</dd>
-
-    <dt>The INTERMAGNET mission is to</dt>
-
-    <dd>Establish and maintain an organization with a worldwide membership drawn from institutes operating geomagnetic observatories that is dedicated to building a network of geomagnetic observatories supplying consistent data, with the geographical coverage, quality, and timeliness of delivery required to meet the evolving needs of research and applied science.</dd>
-
-    <dt>The INTERMAGNET strategy is to</dt>
-    <dd>
-      <ul>
-        <li>Set mandatory standards for measurement, data processing, formats and transmission for network membership, and to support geomagnetic observatory operators in achieving these standards by providing technical assistance.</li>
-        <li>Provide advice on the establishment of new observatories, to help to co-ordinate initiatives taken by member institutes and so to optimize the scientific value of the global network</li>
-        <li>Support data services, as a member of the World Data System, by maintaining an infrastructure for geomagnetic observatory data collection and dissemination</li>
-        <li>Communicate with data users to promote use of INTERMAGNET data and to understand their requirements, feeding this information into the definitions of operating standards</li>
-        <li>Work closely with the International Association of Geomagnetism and Aeronomy and other organizations concerned with magnetic observatory operations</li>
-        <li>Maintain a dialog with technology providers to take advantage of new developments in instrumentation and data acquisition and to advise them of user demands for data to inform their system developments</li>
-    </dd>
-  </dl>
 </div>
