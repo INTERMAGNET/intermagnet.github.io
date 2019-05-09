@@ -31,11 +31,11 @@ The results presented in this paper rely on data collected at magnetic observato
 
 The results presented in this paper rely on the data collected at *observatory name*. We thank *institute name*, for supporting its operation and INTERMAGNET for promoting high standards of magnetic observatory practice (www.intermagnet.org).
 
-## Institutes with different license conditions
+## Institutes with different or additional license and acknowledgment conditions
 
 Individual INTERMAGNET institutes may have broader license conditions; it is incumbent on the user to contact individual institutes to determine these exceptions.
 
-| Institute | Observatories | License details                      |
-| --------- | ------------- | ---------------                      |
-| Example   | EXA, EXB      | http:/example.org/data/licenses.html |
+| Institute | Observatories | License details |
+|-----------|---------------|-----------------|
+| BCMT (IPGP and EOST) | AAE, AMS, BNG, CLF, CZT, DLT, DMC, DRV, IPM, KOU, MBO, PAF, PHU, PPT, PSM, TAN, VLJ | [http://datacenter.ipgp.fr/networks/detail/BCMT/](http://datacenter.ipgp.fr/networks/detail/BCMT/) |
 
