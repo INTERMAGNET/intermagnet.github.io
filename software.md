@@ -12,7 +12,7 @@ A collection of source code including routines in Python, Mathematica, Matlab, I
 
 ## [MagPY](https://github.com/geomagpy/magpy)
 
-MagPy (or GeomagPy) is a Python package for analysing and displaying geomagnetic data.
+MagPy (or GeomagPy) is a Python package for analysing and displaying geomagnetic data. MagPy provides tools for geomagnetic data analysis with special focus on typical data processing routines in observatories. MagPy provides methods for data format conversion, plotting and mathematical procedures with specifically geomagnetic analysis routines such as basevalue and baseline calculation and database handling. Among the supported data formats are ImagCDF, IAGA-02, WDC, IMF, IAF, BLV, and many more. Full installation also provides a graphical user interface, xmagpy.
 
 ## [Imcdview](ftp://ftp.nmh.ac.uk/INTERMAGNET/software/CDViewer/)
 
