@@ -49,3 +49,7 @@ Program Kasm is designed for calculation of geomagnetic activity indices K accor
 ## [Gm_convert](ftp://ftp.nmh.ac.uk/INTERMAGNET/software/gm_convert/)
 
 This software allows you to convert between a number of geomagnetic formats. The program can read the following formats: WDC; INTERMAGNET Minute Mean Format; IAGA-2002; INTERMAGENT Archive Format; INTERAMGNET-CDF; INTERMAGNET-DKA. It converts to either INTERMAGNET Archive Format, IAGA-2002 or INTERAMGNET-CDF. The program can convert from large numbers of input files in multiple formats. It is designed so that, once the necessary information has been collected from the user, the conversion will take place without requiring further input, meaning that long conversion tasks can run unattended.
+
+## [ObsMat](https://gitext.gfz-potsdam.de/mors/OBS_MAT)
+
+ObsMat is a collection of MATLAB routines to analyze, calibrate, display and check geomagnetic data. Internally, data are stored in a custom cdf file format that includes all information to produce definitive data. An interactive tool for flagging and displaying geomagnetic data, called varlab, is part of the package.
