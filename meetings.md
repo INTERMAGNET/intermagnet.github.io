@@ -33,7 +33,7 @@ title: Meetings
 |[The Swarm Delta NanoMagSat Project, Latest News (PDF)](/meetings/2017-Hermanus/Hulot_et_al_NanoMagSat_reduced.pdf)|	G. Hulot|
 |[Introduction to WMO/OSCAR (PDF)](/meetings/2017-Hermanus/Tritchenko_WMO_OSCAR_for_Intermagnet.pdf)|L. Trichtchenko|
 
-## [Dinant 2016
+## Dinant 2016
 
 | Title  | Author |
 |--------|--------|
