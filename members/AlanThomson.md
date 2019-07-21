@@ -1,4 +1,3 @@
-
 ---
 title: Alan Thomson
 ---
