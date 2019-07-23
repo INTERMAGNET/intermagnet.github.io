@@ -1,1 +1,1 @@
-<https://creativecommons.org/licenses/by-nc/4.0/>
+https://creativecommons.org/licenses/by/4.0/
