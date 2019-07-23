@@ -2,7 +2,6 @@
 title: Meetings
 ---
 
-
 ## Vienna 2018
 
 | Title  | Author |
@@ -23,14 +22,14 @@ title: Meetings
 
 | Title  | Author |
 |--------|--------|
-|[IMO report Hermanus 2017 (PDF)](/meetings/2017-Hermanus/Flower_ImagMeetingReportHermanus2017.pdf)|	S. Flower|
-|[INTERMAGNET Meeting Minutes Hermanus 2017 (PDF)](/meetings/2017-Hermanus/Lewis_INTERMAGNETMeetingMinutes-Hermanus2017_public.pdf)|	A. Lewis|
+|[IMO report Hermanus 2017 (PDF)](/meetings/2017-Hermanus/Flower_ImagMeetingReportHermanus2017.pdf)|S. Flower|
+|[INTERMAGNET Meeting Minutes Hermanus 2017 (PDF)](/meetings/2017-Hermanus/Lewis_INTERMAGNETMeetingMinutes-Hermanus2017_public.pdf)|A. Lewis|
 |[INTERMAGNET Geomagnetic Activity Map (PDF)](/meetings/2017-Hermanus/Boteler_IntermagnetGeomagneticActivityMap.pdf)|D. Boteler|
 |[INTERMAGNET DOIs (PDF)](/meetings/2017-Hermanus/Flower_INTERMAGNET_DOIs.pdf)|S. Flower|
 |[INTERMAGNET Web Service (PDF)](/meetings/2017-Hermanus/Flower_INTERMAGNETWebService.pdf)|S. Flower|
-|[Radiation Belt Modeling: Ground-based Contributions (PDF)](/meetings/2017-Hermanus/Friedel_IntermagnetTalk.pdf)|	R. Friedel|
-|[Present and future threats to global geomagnetic observation network & how we face them (PDF)]()|H. Toh|
-|[The Swarm Delta NanoMagSat Project, Latest News (PDF)](/meetings/2017-Hermanus/Hulot_et_al_NanoMagSat_reduced.pdf)|	G. Hulot|
+|[Radiation Belt Modeling: Ground-based Contributions (PDF)](/meetings/2017-Hermanus/Friedel_IntermagnetTalk.pdf)|R. Friedel|
+|[Present and future threats to global geomagnetic observation network & how we face them (PDF)](/meetings/2017-Hermanus/HiroakiToh_Day3AM.pdf)|H. Toh|
+|[The Swarm Delta NanoMagSat Project, Latest News (PDF)](/meetings/2017-Hermanus/Hulot_et_al_NanoMagSat_reduced.pdf)|G. Hulot|
 |[Introduction to WMO/OSCAR (PDF)](/meetings/2017-Hermanus/Tritchenko_WMO_OSCAR_for_Intermagnet.pdf)|L. Trichtchenko|
 
 ## Dinant 2016
@@ -41,7 +40,6 @@ title: Meetings
 |[A Metadata System for Geomagnetism (PPTX)](/meetings/2016-Dinant/Flower_MetadataSystemGeomagnetism.pptx)|S. Flower, J. Matzka|
 |[MQTT (PDF)](/meetings/2016-Dinant/Bracke_mqtt.pdf)|S. Bracke|
 |[Geomag Algorithms and EDGE CWB (PDF)](/meetings/2016-Dinant/Fee_geomag_algorithm_and_edge.pdf)|J. Fee|
-
 
 ## Niemegk 2015
 
