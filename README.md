@@ -10,7 +10,6 @@ The INTERMAGNET website is available at [http://intermagnet.org/](http://interma
 INTERMAGNET members are encouraged to edit this site. For details on how to do this see
 [contributing](CONTRIBUTING.md).
 
-
 ## Examples
 
 ### Markdown in a file
