@@ -1,6 +1,4 @@
----
-title: Meetings
----
+## Meetings
 
 ## Ottawa 2019
 
