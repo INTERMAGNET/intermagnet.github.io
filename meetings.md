@@ -15,7 +15,7 @@ title: Meetings
 |[Non-INTERMAGNET Near Real Time Geomagnetic Networks (PDF)](/meetings/2019-Ottawa/JansenvanBeek-GeomagneticVariationNetworks.pdf)|G. Jansen van Beek|
 |[SuperMAG and relationship to INTERMAGNET (PDF)](/meetings/2019-Ottawa/Matzka-Supermag_etc.pdf)|J. Matzka |
 |[Problems with one-second definitive data checking (PPTX)](/meetings/2019-Ottawa/Reda-1sec_problems.pptx)| J. Reda | 
-|[Comparion of one-second and one-minute data for 2014 (PPTX)](/meetings/2019-Ottawa/Toh-Min-Sec-Comparison.pptx)| H. Toh|
+|[Comparison of one-second and one-minute data for 2014 (PPTX)](/meetings/2019-Ottawa/Toh-Min-Sec-Comparison.pptx)| H. Toh|
 |[Space Weather in WMO/OSCAR (PPT)](/meetings/2019-Ottawa/Trichtchenko-Intermag_Ottawa_OSCAR_2019.ppt)|L. Trichtchenko|
 
 ## Vienna 2018
