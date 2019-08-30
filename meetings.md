@@ -7,15 +7,15 @@ title: Meetings
 | Title  | Author |
 |--------|--------|
 |[Kakioka's Cooperation in Definitive Data Checking (PPTX)](/meetings/2019-Ottawa/Asari-KakiokaIntermagnet2019.pptx)|S. Asari|
-|[DOIs and INTERMAGNET (PPTX)] (/meetings/2019-Ottawa/Elger-INTERMANGET-WS-slides.pptx)|K. Elger|
-|[Geomagnetism and EPOS (PPTX)] (/meetings/2019-Ottawa/Flower-GeomagAndEPOS.pptx)|S. Flower|
+|[DOIs and INTERMAGNET (PPTX)](/meetings/2019-Ottawa/Elger-INTERMAGNET-WS-slides.pptx)|K. Elger|
+|[Geomagnetism and EPOS (PPTX)](/meetings/2019-Ottawa/Flower-GeomagAndEPOS.pptx)|S. Flower|
 |[Progress with Digital Object Identifiers in INTERMAGNET (PPTX)](/meetings/2019-Ottawa/Flower-INTERMAGNET_DOIs.pptx)|S. Flower|
-|[Monitoring the Earth's Magnetic Field with nanosatellites (PDF)](/meetings/2019-Ottawa/Hulot_et_al_NanoMagSat_Poster_IUGG_2019.pdf) | G. Hulot|
-|[Non-INTERMAGNET Near Real Time Geomagnetic Networks (PDF)] (/meetings/2019-Ottawa/JansenvanBeek-GeomagneticVariationNetworks.pdf)| G. Jansen van Beek|
-|[SuperMAG and relationship to INTERMAGNET (PDF)] (/meetings/2019-Ottawa/Matzka-Supermag_etc.pdf)| J. Matzka |
-|[Problems with one-second definitive data checking (PPTX)] (/meetings/2019-Ottawa/Reda-1sec_problems.pptx)| J. Reda | 
-|[Comparion of one-second and one-minute data for 2014 (PPTX)] (/meetings/2019-Ottawa/Toh-Min-Sec-Comparison.pptx)| H. Toh|
-|[Space Weather in WMO/OSCAR (PPT)] (/meetings/2019-Ottawa/Trichtchenko-Intermag_Ottawa_OSCAR_2019.ppt)|L. Trichtchenko|
+|[Monitoring the Earth's Magnetic Field with nanosatellites (PDF)](/meetings/2019-Ottawa/Hulot_et_al_NanoMagSat_Poster_IUGG_2019.pdf) |G. Hulot|
+|[Non-INTERMAGNET Near Real Time Geomagnetic Networks (PDF)](/meetings/2019-Ottawa/JansenvanBeek-GeomagneticVariationNetworks.pdf)|G. Jansen van Beek|
+|[SuperMAG and relationship to INTERMAGNET (PDF)](/meetings/2019-Ottawa/Matzka-Supermag_etc.pdf)|J. Matzka |
+|[Problems with one-second definitive data checking (PPTX)](/meetings/2019-Ottawa/Reda-1sec_problems.pptx)| J. Reda | 
+|[Comparion of one-second and one-minute data for 2014 (PPTX)](/meetings/2019-Ottawa/Toh-Min-Sec-Comparison.pptx)| H. Toh|
+|[Space Weather in WMO/OSCAR (PPT)](/meetings/2019-Ottawa/Trichtchenko-Intermag_Ottawa_OSCAR_2019.ppt)|L. Trichtchenko|
 
 ## Vienna 2018
 
