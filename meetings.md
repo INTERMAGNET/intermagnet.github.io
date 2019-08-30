@@ -6,6 +6,7 @@ title: Meetings
 
 | Title  | Author |
 |--------|--------|
+|INTERMAGNET Meeting Minutes Ottawa 2019|A Lewis|
 |[Kakioka's Cooperation in Definitive Data Checking (PPTX)](/meetings/2019-Ottawa/Asari-KakiokaIntermagnet2019.pptx)|S. Asari|
 |[DOIs and INTERMAGNET (PPTX)](/meetings/2019-Ottawa/Elger-INTERMAGNET-WS-slides.pptx)|K. Elger|
 |[Geomagnetism and EPOS (PPTX)](/meetings/2019-Ottawa/Flower-GeomagAndEPOS.pptx)|S. Flower|
@@ -21,7 +22,7 @@ title: Meetings
 
 | Title  | Author |
 |--------|--------|
-|[INTERMAGNET Meeting Minutes Ottawa 2019 (PDF)](/meetings/2018-Wien/Lewis_IMAGMinutesVienna-public-20181208.pdf/)|A. Lewis|
+|[INTERMAGNET Meeting Minutes Vienna 2018 (PDF)](/meetings/2018-Wien/Lewis_IMAGMinutesVienna-public-20181208.pdf/)|A. Lewis|
 |[Report of 1-min Definitive Data collection (PDF)](/meetings/2018-Wien/Reda_DD_1min_1sec_collection_report_JRD.pdf)|J. Reda|
 |[FDSNWS - Federation of Digital Seismic Network Web Service (PDF)](/meetings/2018-Wien/Blais_FDSNWS_CB.pdf)|C. Blais|
 |[Geomagnetic Metadata - A metadata system for the global observatory community (PPTX)](/meetings/2018-Wien/Flower_GeomagneticMetadata.pptx)|S. Flower|
