@@ -9,6 +9,7 @@ title: Meetings
 |INTERMAGNET Meeting Minutes Ottawa 2019|A. Lewis|
 |IMO report Ottawa 2019|S. Flower|
 |[Kakioka's Cooperation in Definitive Data Checking (PPTX)](/meetings/2019-Ottawa/Asari-KakiokaIntermagnet2019.pptx)|S. Asari|
+|[Canadian Hazard Information Service (CHIS) (PPTX)](/meetings/2019-Ottawa/Blais-Intermagnet-chis.pptx)|C. Blais|
 |[DOIs and INTERMAGNET (PPTX)](/meetings/2019-Ottawa/Elger-INTERMAGNET-WS-slides.pptx)|K. Elger|
 |[Geomagnetism and EPOS (PPTX)](/meetings/2019-Ottawa/Flower-GeomagAndEPOS.pptx)|S. Flower|
 |[Progress with Digital Object Identifiers in INTERMAGNET (PPTX)](/meetings/2019-Ottawa/Flower-INTERMAGNET_DOIs.pptx)|S. Flower|
