@@ -13,6 +13,8 @@
       href: http://www.intermagnet.org/data-donnee/dataplot-eng.php
     - name: Geomagnetic Activity Map (external)
       href: http://www.intermagnet.org/activitymap/activitymap-eng.php
+    - name: Data Quality Checking
+      href: /data_checkers.html
 
 - name: Observatories
   subnavs:
