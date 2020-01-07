@@ -21,3 +21,4 @@ The Operations Committee advises [the Executive Council](#executive-council) on 
 [Jan Reda](/members/JanReda.md) (Poland)  
 [Benoit St-Louis](/members/BenoitStLouis.md) (Canada)  
 [Chris Turbitt](/members/ChrisTurbitt.md) (United Kingdom)  
+[Achim Morschhauser](/members/AchimMorschhauser.md) (Germany)  
