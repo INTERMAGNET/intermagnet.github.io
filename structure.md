@@ -23,7 +23,7 @@ The Operations Committee advises the Executive Council on the technical issues t
 | Name               | Definitive Data | WWW, GINS, and Data Format | IMO Applications | Technical Manual | Instrumentation and Data Acquisition |
 |--------------------|-----------------|----------------------------|------------------|------------------|--------------------------------------|
 | Andrew Lewis       | Member (S)      |                            | Deputy Chair (P) | Member (P)       |                                      |
-| Benoit Heumez      | Member (P)      | Member (P)                 |                  |                  | Member (S)                           |
+| Benoit Heumez      | Deputy Chair (P)|                            | Member (S)       |                  |                                   |
 | Benoit St-Louis    |                 |                            | Member (P)       | Chair (P)        | Member (S)                           |
 | Charles Blais      | Member (P)      | Chair (P)                  |                  |                  |                                      |
 | Chris Turbitt      |                 |                            | Chair (P)        | Deputy Chair (P) | Member (S)                           |
