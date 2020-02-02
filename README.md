@@ -2,14 +2,12 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-
 This project includes the files for INTERMAGNET github organization pages, which are displayed at [https://intermagnet.github.io/](https://intermagnet.github.io/) .
 
 The INTERMAGNET website is available at [http://intermagnet.org/](http://intermagnet.org/).
 
 INTERMAGNET members are encouraged to edit this site. For details on how to do this see
 [contributing](contributing.md).
-
 
 ## Examples
 

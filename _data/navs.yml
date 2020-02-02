@@ -5,8 +5,8 @@
   subnavs:
     - name: Data Conditions
       href: /data_conditions.html
-    - name: Data Download (external)
-      href: http://www.intermagnet.org/data-donnee/download-eng.php
+    - name: Data Download (FTP)
+      href: ftp://ftp.seismo.nrcan.gc.ca/intermagnet/
     - name: Data Formats (external)
       href: http://www.intermagnet.org/data-donnee/formatdata-eng.php
     - name: Observatory Plots (external)
@@ -18,6 +18,8 @@
 
 - name: Observatories
   subnavs:
+    - name: IMOs and Definitive Catalogue (beta)
+      href: /metadata/
     - name: IMOs and Responsible GINs (external)
       href: http://www.intermagnet.org/imos/imotblobs-eng.php
     - name: Map (external)
@@ -32,10 +34,10 @@
 
 - name: Resources
   subnavs:
+    - name: Organizational Structure
+      href: /structure.html
     - name: FAQ
       href: /faq/
-    - name: CD-ROM/DVDs (external)
-      href: http://www.intermagnet.org/data-donnee/cdrom/cddata-eng.php
     - name: Technical Reference Manual (external)
       href: http://www.intermagnet.org/publication-software/technicalsoft-eng.php
     - name: Publications
@@ -50,8 +52,7 @@
       href: /gins.html
 
 
-
 - name: Contact
-  href: /contacts.html
+  href: /structure.html
   
 
