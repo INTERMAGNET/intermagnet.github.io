@@ -6,10 +6,10 @@ title: Organizational Structure
 
 The Executive Council establishes policy for INTERMAGNET, deals with questions of international participation and data exchange and communicates with national agencies and international scientific and funding agencies. It is assisted and advised by the Operations Committee.
 
-- [Alan Thomson](/members/AlanThomson.html) (United Kingdom), Chairman
-- [Carol Finn](/members/CatolFinn.html) (United States of America)
-- [David Boteler](/members/DavidBoteler.html) (Canada)
-- [Gauthier Hulot](/members/GauhtierHulot.html) (France)
+- Alan Thomson (United Kingdom), Chairman
+- Carol Finn (United States of America)
+- David Boteler (Canada)
+- Gauthier Hulot (France)
 
 ## Operations Committee
 
@@ -17,8 +17,8 @@ The Operations Committee advises the Executive Council on the technical issues t
 
 ### Operations Committee Structure
 
-- [Simon Flower](/members/SimonFlower.html), Chairman
-- [Andrew Lewis](/members/AndrewLewis.html), Secretary
+- Simon Flower, Chairman
+- Andrew Lewis, Secretary
 
 | Name | Definitive Data | WWW, GINS, and Data Format | IMO Applications | Technical Manual | Instrumentation and Data Acquisition |
 |------|-----------------|----------------------------|------------------|------------------|--------------------------------------|
