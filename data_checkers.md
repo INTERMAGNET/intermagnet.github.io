@@ -32,8 +32,8 @@ Data users can be confident definitive data from INTERMAGNET magnetic observator
 |Hiroaki Toh                       |Kyoto University, Japan                         |
 |Jake Morris and Bill Worthington  |U.S. Geological Survey                          |
 |Jan Reda                          |Institute of Geophysics, Polish Ac. of Science  |
-|Seiki Asari                       |Kakioka Observatory, Japan Meteorological Agency|
 |Kusumita Arora                    |National Geophysical Research Institute, India  |
+|Seiki Asari                       |Kakioka Observatory, Japan Meteorological Agency|
 |Sergey Y. Khomutov                |Observatory Paratunka, Russia                   |
 |Tero Raita                        |Sodankyla Geophysical Observatory, Finland      |
 
