@@ -29,10 +29,11 @@ Data users can be confident definitive data from INTERMAGNET magnetic observator
 |Benoit Heumez                     |Institut de Physique du Globe de Paris, France  |
 |David Calp                        |Natural Resources Canada                        |
 |Ellen Clark                       |British Geological Survey                       |
-|Hiroaki Toh and Seiki Asari       |Kyoto University and Kakioka Observatory, Japan |
+|Hiroaki Toh                       |Kyoto University, Japan                         |
 |Jake Morris and Bill Worthington  |U.S. Geological Survey                          |
 |Jan Reda                          |Institute of Geophysics, Polish Ac. of Science  |
 |Kusumita Arora                    |National Geophysical Research Institute, India  |
+|Seiki Asari                       |Japan Meteorological Agency                     |
 |Sergey Y. Khomutov                |Observatory Paratunka, Russia                   |
 |Tero Raita                        |Sodankyla Geophysical Observatory, Finland      |
 
