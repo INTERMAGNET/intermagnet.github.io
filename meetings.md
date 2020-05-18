@@ -6,7 +6,7 @@ title: Meetings
 
 | Title  | Author |
 |--------|--------|
-|IMO report Ottawa 2019|S. Flower|
+|[IMO report Ottawa 2019 (PDF)](/meetings/2019-Ottawa/Flower_ImagMeetingReportOttawa2019.pdf)|S. Flower|
 |[INTERMAGNET Meeting Minutes Ottawa 2019 (PDF)](/meetings/2019-Ottawa/Lewis-IMAGMinutesOttawa-public-20191220.pdf)|A. Lewis|
 |[Kakioka's Cooperation in Definitive Data Checking (PPTX)](/meetings/2019-Ottawa/Asari-KakiokaIntermagnet2019.pptx)|S. Asari|
 |[Canadian Hazard Information Service (CHIS) (PPTX)](/meetings/2019-Ottawa/Blais-Intermagnet-chis.pptx)|C. Blais|
