@@ -37,4 +37,4 @@ Individual INTERMAGNET institutes may have broader license conditions; it is inc
 
 | Institute | Observatories | License details |
 |-----------|---------------|-----------------|
-| BCMT (IPGP and EOST) | AAE, AMS, BNG, CLF, CZT, DLT, DMC, DRV, IPM, KOU, MBO, PAF, PHU, PPT, PSM, TAN, VLJ | [http://datacenter.ipgp.fr/networks/detail/BCMT/](http://datacenter.ipgp.fr/networks/detail/BCMT/) |
+| BCMT (IPGP and EOST) | AAE, AMS, BNG, CLF, CZT, DLT, DMC, DRV, IPM, KOU, MBO, PAF, PHU, PPT, PSM, TAN, VLJ | [http://www.bcmt.fr/termsofuse.html](http://www.bcmt.fr/termsofuse.html) |
