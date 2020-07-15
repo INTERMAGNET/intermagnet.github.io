@@ -17,9 +17,15 @@ The data made available through INTERMAGNET are provided for your use and are no
 
 ## Acknowledgement of data from observatories participating in INTERMAGNET
 
-INTERMAGNET is moving towards creation of Digital Object Identifiers (DOIs) for its data sets. At present (2018) INTERMAGNET has not published any DOIs. Once DOIs are available, the preferred method for acknowledging INTERMAGNET data will be to cite all relevant DOIs. INTERMAGNET will provide advice on how to make a citation using DOIs (once DOIs are available).
+INTERMAGNET is starting to publish it's data in the form of Digital Object Identifiers (DOIs). Definitive INTERMAGNET data publications from 2013 onwards are available as DOIs:
 
-In the meantime, publications making use of INTERMAGNET data should include an acknowledgement statement of the form given below. A citation reference should be sent to the INTERMAGNET Secretary for inclusion in a publications list on the INTERMAGNET website. The secretary's address can be found at [http://www.intermagnet.org/structops-eng.php](http://www.intermagnet.org/structops-eng.php).
+- https://doi.org/10.5880/INTERMAGNET.2013
+- https://doi.org/10.5880/INTERMAGNET.2014
+- https://doi.org/10.5880/INTERMAGNET.1991.2015
+
+The preferred method for acknowledging INTERMAGNET data is to cite relevant DOIs. However most INTERMAGNET data is not available as a DOI. DOIs are not yet available for the original annual publications of definitive data from 1991 to 2012 or for any preliminary INTERMAGNET data.
+
+Where DOIs are not available, publications making use of INTERMAGNET data should include an acknowledgement statement of the form given below. A citation reference should be sent to the INTERMAGNET Secretary for inclusion in a publications list on the INTERMAGNET website. The secretary's address can be found at [http://www.intermagnet.org/structops-eng.php](http://www.intermagnet.org/structops-eng.php).
 
 We offer two acknowledgement templates. The first is for cases where data from many observatories have been used and it is not practical to list them all, or each of their operating institutes. The second is for cases where research results have been produced using a smaller set of observatories.
 
