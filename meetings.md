@@ -2,6 +2,20 @@
 title: Meetings
 ---
 
+## On-line July 2020
+
+| Title  | Author |
+|--------|--------|
+|IMO report On-line Meeting July 2020 (PDF)|S. Flower|
+|INTERMAGNET Minutes On-line meeting July 2020 (PDF)|A. Lewis, C. Blais, J. Reda, A. Thompson, C. Turbitt, B. St-Louis|
+|[Future of the INTERMAGNET website and archive (part 1) (PPTX)](/meetings/2020-Online/Blais_imag_web_site.pptx)|C. Blais|
+|[Future of the INTERMAGNET website and archive (part 2) (PPTX)](/meetings/2020-Online/Flower_imag_web_site2.pptx)|S. Flower|
+|[INTERMAGNET Reference Data Set and Digital Object Identifiers (PPTX)](/meetings/2020-Online/Flower_irds_and_dois.pptx)|S. Flower|
+|[Progress on one-second data (PPTX)](/meetings/2020-Online/Reda_Progress_on_one_second_data.pptx)|J. Reda|
+|[Quasi-definitive Data Compliance 2017 (PPTX)](/meetings/2020-Online/Lewis_qd_comparison2017.pptx)|A. Lewis|
+|[Report on Definitive Data Timeliness (PPTX)](/meetings/2020-Online/Reda_Report_on_definitive_data_timeliness.pptx)|J. Reda|
+|[INTERMAGNET Technical Manual (PPTX)](/meetings/2020-Online/StLouis_Technical_Manual.pptx) |B. St-Louis|
+
 ## Ottawa 2019
 
 | Title  | Author |
@@ -37,6 +51,8 @@ title: Meetings
 |[Data collection 1-sec definitive 2014-2017 (PPT)](/meetings/2018-Wien/JReda-Providing_1-sec_2014_2017_jrd.ppt)|J. Reda|
 |[Recent results from Odessa Observatory (PPTX)](/meetings/2018-Wien/Sumaruk_ODE.pptx)|Y. Sumaruk, V. Starostenko|
 |[European Plate Observing System (PPTX)](/meetings/2018-Wien/AThomson-WP13_EPOS_INTERMAGNET_2018.pptx)|A. Thomson, S. Flower, P. Hejda|
+|[Quasi-definitive Data 2015 (PPTX)](/meetings/2018-Wien/Lewis_Def-QDComparison2015.pptx)|A. Lewis|
+
 
 ## Hermanus 2017
 
