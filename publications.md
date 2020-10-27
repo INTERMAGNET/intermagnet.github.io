@@ -14,7 +14,7 @@ title: Publications
 
 | Title | Author |
 |-------|--------|
-| [Technical Reference Manual V-5.0.0 (PDF)](/docs/technical-manual/technical_manual.pdf) | B. St-Louis |
+| [Technical Reference Manual V-5.0.0 (PDF)](/docs/Technical-Manual/technical_manual.pdf) | B. St-Louis |
 
 ## Technical Notes
 
