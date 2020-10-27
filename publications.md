@@ -10,6 +10,12 @@ title: Publications
 | [INTERMAGNET Observatory Participation Policy (PDF)](/docs/publications/im_pn_1_v1_2_INTERMAGNET_Observatory_Participation_Policy.pdf) | C. Turbitt, J. Love, A. Chulliat, D. Boteler |
 | [An International Network of Magnetic Observatories (PDF)](/docs/publications/eost2013EO420001.pdf) | J. Love, A. Chulliat |
 
+## Technical Reference Manual
+
+| Title | Author |
+|-------|--------|
+| [Technical Manual Reference V-5.0.0 (PDF)](/docs/technical-manual/technical_manual.pdf) | B. St-Louis |
+
 ## Technical Notes
 
 | Title | Author |
