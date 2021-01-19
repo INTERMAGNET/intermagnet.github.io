@@ -7,7 +7,7 @@ title: Meetings
 | Title  | Author |
 |--------|--------|
 |IMO report On-line Meeting July 2020 (PDF)|S. Flower|
-|INTERMAGNET Minutes On-line meeting July 2020 (PDF)|A. Lewis, C. Blais, J. Reda, A. Thompson, C. Turbitt, B. St-Louis|
+|[INTERMAGNET Minutes On-line meeting July 2020 (PDF)](/meetings/2020-Online/INTERMAGNETMeetingMinutes-OnLine2020-PUBLIC.pdf)|A. Lewis, C. Blais, J. Reda, B. St-Louis, A. Thompson, C. Turbitt|
 |[Future of the INTERMAGNET website and archive (part 1) (PPTX)](/meetings/2020-Online/Blais_imag_web_site.pptx)|C. Blais|
 |[Future of the INTERMAGNET website and archive (part 2) (PPTX)](/meetings/2020-Online/Flower_imag_web_site2.pptx)|S. Flower|
 |[INTERMAGNET Reference Data Set and Digital Object Identifiers (PPTX)](/meetings/2020-Online/Flower_irds_and_dois.pptx)|S. Flower|
