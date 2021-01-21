@@ -7,7 +7,7 @@ title: Organizational Structure
 The Executive Council establishes policy for INTERMAGNET, deals with questions of international participation and data exchange and communicates with national agencies and international scientific and funding agencies. It is assisted and advised by the Operations Committee.
 
 - Alan Thomson (United Kingdom), Chairman
-- Carol Finn (United States of America)
+- Kristen Lewis (United States of America)
 - David Boteler (Canada)
 - Gauthier Hulot (France)
 
@@ -22,6 +22,7 @@ The Operations Committee advises the Executive Council on the technical issues t
 
 | Name | Definitive Data | WWW, GINS, and Data Format | IMO Applications | Technical Manual | Instrumentation and Data Acquisition |
 |------|-----------------|----------------------------|------------------|------------------|--------------------------------------|
+| Achim Morschhauser | Member (S) | Member (P) | | | Member (S) |
 | Andrew Lewis | Member (S) | | Deputy Chair (P) | Member (P) | |
 | Benoit Heumez | Deputy Chair (P) | | Member (S) | | |
 | Benoit St-Louis | | | Member (P) | Chair (P) | Member (S) |
@@ -36,7 +37,6 @@ The Operations Committee advises the Executive Council on the technical issues t
 | Stephan Bracke | | Member (P) | | Member (S) | |
 | Tero Raita | Member (P) | | Member (S) | | |
 | Virginie Maury | Member (P) | Member (P) | Member (S) | | |
-| Achim Morschhauser | Member (S) | Member (P) | | | Member (S) |
 | **No. of members** | **11** | **8** | **8** | **6** | **5** |
 
 - (P) = primary affiliation
