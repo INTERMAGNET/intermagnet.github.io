@@ -14,6 +14,10 @@ You can learn how to edit a Markdown file [here](https://guides.github.com/pdfs/
 
 ## The comprehensive way
 
+### Description of the recommended github workflow
+
+<https://github.com/INTERMAGNET/intermagnet.github.io/blob/master/docs/git-workflow/README.md>
+
 For more complex changes, you can clone this repository to your own computer, edit there and then upload when you have completed your changes. Files with a .md suffix are 'markdown' files. You can edit these with a text editor and preview them with the Python package 'grip'. Files in the FAQ area use Jekyll templating. You can edit these with a text editor and preview them using the Ruby package 'jekyll'.
 
 ### Installing and using grip
@@ -36,10 +40,13 @@ grip 12345
 4. Use a browser to view the rendered markdown (assuming grip is running on the default port). Here are some example URLs.
 
     - View README.md (the default file that grip renders):
+
     ```bash
     http://localhost:6419/
     ```
+
     - View CONTRIBUTING.md:
+
     ```bash
     http://localhost:6419/CONTRIBUTING.md
     ```
