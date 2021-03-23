@@ -7,7 +7,7 @@ title: Publications
 | [WDC INTERMAGNET Biennial Report 2015](/docs/publications/WDS_Biennial_Report2015.pdf) | S. Flower |
 | [INTERMAGNET: Worldwide Near Real-Time Geomagnetic Observatory Data (PDF)](/docs/publications/IM_ESTEC.pdf) | D. Kerridge |
 | [Magnetic monitoring of Earth and space (PDF)](/docs/publications/Magnetic_monitoring_of_earth_and_space.pdf) | J. Love |
-| [INTERMAGNET Observatory Participation Policy (PDF)](/docs/publications/im_pn_1_v1_2_INTERMAGNET_Observatory_Participation_Policy.pdf) | C. Turbitt, J. Love, A. Chulliat, D. Boteler |
+| [INTERMAGNET Observatory Participation Policy (PDF)](/docs/publications/im_pn_1_v1_3_INTERMAGNET_Observatory_Participation_Policy.pdf) | C. Turbitt, J. Love, A. Chulliat, D. Boteler |
 | [An International Network of Magnetic Observatories (PDF)](/docs/publications/eost2013EO420001.pdf) | J. Love, A. Chulliat |
 
 ## Technical Reference Manual
