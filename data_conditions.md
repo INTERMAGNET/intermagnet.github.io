@@ -2,8 +2,6 @@
 title: INTERMAGNET Data - conditions of use
 ---
 
-[**DRAFT - This is a draft website page - DRAFT**]
-
 <!-- This section copied from Creative Commons - please don't change -->
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Unless otherwise noted, data downloaded through INTERMAGNET is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. A list of institutes with different license conditions is given at the end of this page.
 
@@ -17,13 +15,13 @@ The data made available through INTERMAGNET are provided for your use and are no
 
 ## Acknowledgement of data from observatories participating in INTERMAGNET
 
-INTERMAGNET is starting to publish it's data in the form of Digital Object Identifiers (DOIs). Definitive INTERMAGNET data publications from 2013 onwards are available as DOIs:
+INTERMAGNET publishes its data in the form of Digital Object Identifiers (DOIs). Definitive INTERMAGNET data publications from 2013 onwards are available as DOIs:
 
 - https://doi.org/10.5880/INTERMAGNET.2013
 - https://doi.org/10.5880/INTERMAGNET.2014
 - https://doi.org/10.5880/INTERMAGNET.1991.2015
 
-The preferred method for acknowledging INTERMAGNET data is to cite relevant DOIs. However most INTERMAGNET data is not available as a DOI. DOIs are not yet available for the original annual publications of definitive data from 1991 to 2012 or for any preliminary INTERMAGNET data.
+The preferred method for acknowledging INTERMAGNET data is to cite relevant DOIs. However much of INTERMAGNET's data is not available as a DOI. DOIs are not yet available for the original annual publications of definitive data from 1991 to 2012 or for any preliminary INTERMAGNET data.
 
 Where DOIs are not available, publications making use of INTERMAGNET data should include an acknowledgement statement of the form given below. A citation reference should be sent to the INTERMAGNET Secretary for inclusion in a publications list on the INTERMAGNET website. The secretary's address can be found at [http://www.intermagnet.org/structops-eng.php](http://www.intermagnet.org/structops-eng.php).
 
