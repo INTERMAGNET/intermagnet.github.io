@@ -14,9 +14,11 @@ Keep a permanent archive of both provisional and definitive data.
 More information on the application form can be obtained from the IMO sub-committee chairman Christopher Turbitt.
 
 <div class="alert alert-info" role="alert">
-<p>The application form is available in 3 formats. Download the application form using the links below.</p>
+<p>The application form is available in 2 formats. Download the application form using the links below.</p>
 
 <a href="/docs/INTERMAGNET_Observatory_Application_Form_v3.3.docx">Microsoft Word</a>
+
+<a href="/docs/INTERMAGNET_Observatory_Application_Form_v3.3.pdf">PDF</a>
 </div>
 
 Other documents Available
