@@ -7,7 +7,7 @@ title: Meetings
 | Title  | Author |
 |--------|--------|
 |IMO report On-line Meeting March 2021 (PDF)|S. Flower|
-|INTERMAGNET Minutes On-line meeting March 2021 (PDF)|A. Lewis, C. Blais, J. Reda, B. St-Louis, A. Thompson, C. Turbitt|
+|[INTERMAGNET Minutes On-line meeting March 2021 (PDF)](/meetings/2021Mar-Online/INTERMAGNETMeetingMinutes-OnLineMarch2021_Public.pdf)|A. Lewis, C. Blais, J. Reda, B. St-Louis, A. Thompson, C. Turbitt|
 |[Progress on One-second Data (PPTX)](/meetings/2021Mar-Online/Reda_Progress_on_One_Second_Data.pptx)|J. Reda|
 |[Report on Definitive Data Timeliness (PPTX)](/meetings/2021Mar-Online/Reda_Report_on_Definitive_Data_Timeliness.pptx)|J. Reda|
 |[Next Version of the Technical Manual (integration with GitHub) (PPTX)](/meetings/2021Mar-Online/Bracke_Future_Tech_Man.pptx)|S. Bracke|
