@@ -9,13 +9,13 @@ The Executive Council establishes [policy for INTERMAGNET](/_includes/index/prin
 | Name |  Email | Telephone | Country |
 |------|--------|-----------|---------|
 | Alan Thomson | awpt@bgs.ac.uk | +44 (0) 131-650-0257 | United Kingdom |
-| Carol Finn | cafinn@usgs.gov | 1-303-273-8475 | United States of America |
+| Krissy Lewis | klewis@usgs.gov | 1-303-273-8471 | United States of America |
 | David Boteler | david.boteler@canada.ca | 1-613-837-2035 | Canada |
 | Gauthier Hulot | gh@ipgp.fr | +33 (0)1 83 95 74 78 | France |
 
 ## Operations Committee
 
-The Operations Committee advises [the Executive Council](#executive-council) on the technical issues that arise within INTERMAGNET. This includes matters relating to instrumentation, data processing and communications. The Committee is also responsible for establishing and maintaining standards and formats for the global exchange of data under the INTERMAGNET programme, for designing and publishing [the INTERMAGNET Technical Manual](http://www.intermagnet.org/publication-software/technicalsoft-eng.php) and producing [the annual CD-ROM/DVD](http://www.intermagnet.org/data-donnee/cdrom/cddata-eng.php).
+The Operations Committee advises [the Executive Council](#executive-council) on the technical issues that arise within INTERMAGNET. This includes matters relating to instrumentation, data processing and communications. The Committee is also responsible for establishing and maintaining standards and formats for the global exchange of data under the INTERMAGNET programme, for designing and publishing [the INTERMAGNET Technical Manual](/docs/Technical-Manual/technical_manual.pdf) and producing [annual DOI data sets](/data_conditions.md) and [CD/DVD data](http://www.intermagnet.org/data-donnee/cdrom/cddata-eng.php).
 
 | Name |  Email | Telephone | Country |
 |------|--------|-----------|---------|
