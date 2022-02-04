@@ -9,6 +9,9 @@ title: Publications
 | [Magnetic monitoring of Earth and space (PDF)](/docs/publications/Magnetic_monitoring_of_earth_and_space.pdf) | J. Love |
 | [INTERMAGNET Observatory Participation Policy (PDF)](/docs/publications/im_pn_1_v1_3_INTERMAGNET_Observatory_Participation_Policy.pdf) | C. Turbitt, J. Love, A. Chulliat, D. Boteler |
 | [An International Network of Magnetic Observatories (PDF)](/docs/publications/eost2013EO420001.pdf) | J. Love, A. Chulliat |
+| [Modernizing a global magnetic partnership, Eos 102](https://doi.org/10.1029/2021EO156569) | A.W.P. Thomson, S.M. Flower |
+
+
 
 ## Technical Reference Manual
 

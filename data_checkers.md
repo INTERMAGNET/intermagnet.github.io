@@ -27,12 +27,13 @@ Data users can be confident definitive data from INTERMAGNET magnetic observator
 |Anca Isac                         |Surlari Observatory, Romania                    |
 |Andrew Lewis                      |Geoscience Australia                            |
 |Benoit Heumez                     |Institut de Physique du Globe de Paris, France  |
+|Bill Worthington                  |U.S. Geological Survey                          |
 |David Calp                        |Natural Resources Canada                        |
-|Ellen Clark                       |British Geological Survey                       |
 |Hiroaki Toh                       |Kyoto University, Japan                         |
-|Jake Morris and Bill Worthington  |U.S. Geological Survey                          |
 |Jan Reda                          |Institute of Geophysics, Polish Ac. of Science  |
 |Kusumita Arora                    |National Geophysical Research Institute, India  |
+|Matthew Gard                      |Geoscience Australia                            |
+|Orsi Baillie                      |British Geological Survey                       |
 |Seiki Asari                       |Japan Meteorological Agency                     |
 |Sergey Y. Khomutov                |Observatory Paratunka, Russia                   |
 |Tero Raita                        |Sodankyla Geophysical Observatory, Finland      |

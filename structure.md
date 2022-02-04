@@ -7,9 +7,9 @@ title: Organizational Structure
 The Executive Council establishes policy for INTERMAGNET, deals with questions of international participation and data exchange and communicates with national agencies and international scientific and funding agencies. It is assisted and advised by the Operations Committee.
 
 - Alan Thomson (United Kingdom), Chairman
-- Kristen Lewis (United States of America)
 - David Boteler (Canada)
 - Gauthier Hulot (France)
+- Kristen Lewis (United States of America)
 
 ## Operations Committee
 
@@ -28,7 +28,6 @@ The Operations Committee advises the Executive Council on the technical issues t
 | Benoit St-Louis | | | Member (P) | Chair (P) | Member (S) |
 | Charles Blais | Member (P) | Chair (P) | | | |
 | Chris Turbitt | | | Chair (P) | Deputy Chair (P) | Member (S) |
-| Hiroaki Toh | Member (P) | Member (P) | | Member (S) | |
 | Jan Reda | Chair (P) | Member (P) | | | |
 | Jurgen Matzka | | | Member (P) | Member (P) | Member (S) |
 | Roman Leonhardt | Member (P) | Member (P) | | | |
@@ -37,7 +36,7 @@ The Operations Committee advises the Executive Council on the technical issues t
 | Stephan Bracke | | Member (P) | | Member (S) | |
 | Tero Raita | Member (P) | | Member (S) | | |
 | Virginie Maury | Member (P) | Member (P) | Member (S) | | |
-| **No. of members** | **11** | **8** | **8** | **6** | **5** |
+| **No. of members** | **10** | **7** | **8** | **5** | **5** |
 
 - (P) = primary affiliation
 - (S) = secondar affiliation
