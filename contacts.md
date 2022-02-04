@@ -24,7 +24,6 @@ The Operations Committee advises [the Executive Council](#executive-council) on 
 | Benoit St-Louis | benoit.st-louis@canada.ca | 1-613-837-4244 | Canada |
 | Charles Blais | charles.blais@canada.ca | 1-613-298-1292 | Canada |
 | Chris Turbitt | c.turbitt@bgs.ac.uk | +44 (0) 131-650-0240 | United Kingdom |
-| Hiroaki Toh | toh@kugi.kyoto-u.ac.jp | +81-75-753-3939 | Japan |
 | Jan Reda | jreda@igf.edu.pl | (48) 48 6610830 | Poland |
 | Jurgen Matzka | jmat@gfz-potsdam.de | +49 (0)33843-624-0 | Germany |
 | Roman Leonhardt | roman.leonhardt@zamg.ac.at | +43 (0)1-36026-2507 | Austria |
