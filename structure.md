@@ -32,11 +32,12 @@ The Operations Committee advises the Executive Council on the technical issues t
 | Jurgen Matzka | | | Member (P) | Member (P) | Member (S) |
 | Roman Leonhardt | Member (P) | Member (P) | | | |
 | Sergey Khomutov | Member (S) | | Member (P) | | Member (S) |
+| Shun Imajo | Member (S) | Member (P) | | | |
 | Simon Flower | Member (P) | Member (P) | | | |
 | Stephan Bracke | | Member (P) | | Member (S) | |
 | Tero Raita | Member (P) | | Member (S) | | |
 | Virginie Maury | Member (P) | Member (P) | Member (S) | | |
-| **No. of members** | **10** | **7** | **8** | **5** | **5** |
+| **No. of members** | **11** | **8** | **8** | **5** | **5** |
 
 - (P) = primary affiliation
 - (S) = secondar affiliation

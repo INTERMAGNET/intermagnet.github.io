@@ -29,6 +29,7 @@ The Operations Committee advises [the Executive Council](#executive-council) on 
 | Jurgen Matzka | jmat@gfz-potsdam.de | +49 (0)33843-624-0 | Germany |
 | Roman Leonhardt | roman.leonhardt@zamg.ac.at | +43 (0)1-36026-2507 | Austria |
 | Sergey Khomutov | khomutov@ikir.ru | 8 (41531) 33193 | Russia |
+| Shun Imajo | imajo@kugi.kyoto-u.ac.jp | +81-75-753-3959 | Japan
 | Simon Flower | smf@bgs.ac.uk | +44 (0) 131-650-0238 | United Kingdom |
 | Stephan Bracke | stbracke@meteo.be | +32(60)395409 | Belgium |
 | Tero Raita | tero.raita@sgo.fi | +358-294-480864 | Finland |
