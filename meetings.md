@@ -2,6 +2,18 @@
 title: Meetings
 ---
 
+## On-line September 2021
+
+| Title  | Author |
+|--------|--------|
+|IMO report On-line Meeting September 2021 (PDF)|S. Flower|
+|[INTERMAGNET Minutes On-line meeting September 2021 (PDF)](/meetings/2021Sep-Online/INTERMAGNETMeetingMinutes-OnLineSept2021_Public.pdf)|A. Lewis, C. Blais, J. Reda, B. St-Louis, A. Thompson, C. Turbitt|
+|[Progress on One-second Data (PPTX)](/meetings/2021Sep-Online/Reda_Progress_on_One_Second_Data.pptx)|J. Reda|
+|[Report on Definitive Data, Including IRDS and DOIs (PPTX)](/meetings/2021Sep-Online/Reda_Report_on_Definitive_Data_Timeliness.pptx)|J. Reda|
+|[Next Version of the Technical Manual (integration with GitHub) (PPTX)](/meetings/2021Sep-Online/Bracke_TM_Collaborative_Environment.pptx)|S. Bracke|
+|[Future of the INTERMAGNET Data Archive and Web Service (PDF)](/meetings/2021Sep-Online/Flower_ImagPortalProgress.pdf)|S. Flower|
+
+
 ## On-line March 2021
 
 | Title  | Author |
