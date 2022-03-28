@@ -6,7 +6,7 @@ title: Meetings
 
 | Title  | Author |
 |--------|--------|
-|IMO report On-line Meeting September 2021 (PDF)|S. Flower|
+|[IMO report On-line Meeting September 2021 (PDF)](/meetings/2021Sep-Online/Flower_OnlineMeetingReport2021.pdf)|S. Flower|
 |[INTERMAGNET Minutes On-line meeting September 2021 (PDF)](/meetings/2021Sep-Online/INTERMAGNETMeetingMinutes-OnLineSept2021_Public.pdf)|A. Lewis, C. Blais, J. Reda, B. St-Louis, A. Thompson, C. Turbitt|
 |[Progress on One-second Data (PPTX)](/meetings/2021Sep-Online/Reda_Progress_on_One_Second_Data.pptx)|J. Reda|
 |[Report on Definitive Data, Including IRDS and DOIs (PPTX)](/meetings/2021Sep-Online/Reda_Report_on_Definitive_Data_Timeliness.pptx)|J. Reda|
@@ -18,7 +18,7 @@ title: Meetings
 
 | Title  | Author |
 |--------|--------|
-|IMO report On-line Meeting March 2021 (PDF)|S. Flower|
+|IMO report On-line Meeting March 2021 |A summary report was not written for this meeting.|
 |[INTERMAGNET Minutes On-line meeting March 2021 (PDF)](/meetings/2021Mar-Online/INTERMAGNETMeetingMinutes-OnLineMarch2021_Public.pdf)|A. Lewis, C. Blais, J. Reda, B. St-Louis, A. Thompson, C. Turbitt|
 |[Progress on One-second Data (PPTX)](/meetings/2021Mar-Online/Reda_Progress_on_One_Second_Data.pptx)|J. Reda|
 |[Report on Definitive Data Timeliness (PPTX)](/meetings/2021Mar-Online/Reda_Report_on_Definitive_Data_Timeliness.pptx)|J. Reda|
