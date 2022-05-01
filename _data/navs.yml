@@ -18,19 +18,18 @@
 
 - name: Observatories
   subnavs:
-    - name: IMOs and Definitive Catalogue (beta)
-      href: /metadata/
-    - name: IMOs and Responsible GINs (external)
-      href: http://www.intermagnet.org/imos/imotblobs-eng.php
-    - name: Map (external)
-      href: http://www.intermagnet.org/imos/imomap-eng.php
+    - name: IMOs and Responsible GINs
+      href: /metadata/#/imos
+    - name: Definitive Catalogue
+      href: /metadata/#/definitives
+    - name: Map
+      href: /metadata/#/map
+    - name: Participating Institutes
+      href: /metadata/#/institutes
     - name: Photographs (external)
       href: http://www.intermagnet.org/imos/imophoto-eng.php
-    - name: Participating Institutes (external)
-      href: http://www.intermagnet.org/institutes-eng.php
     - name: Membership Application Form
       href: /membership.html
-    
 
 - name: Resources
   subnavs:
