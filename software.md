@@ -26,7 +26,7 @@ Program Kasm is designed for calculation of geomagnetic activity indices K accor
 
 ## Visualization
 
-### [Imcdview download](https://geomag.bgs.ac.uk/data_service/intermagnet/resource/IMCDView/) / [installer](https://geomag.bgs.ac.uk/data_service/intermagnet/imcdviewInstaller/install.htm)
+### [Imcdview download](https://geomag.bgs.ac.uk/data_service/intermagnet/home.html) / [installer](https://geomag.bgs.ac.uk/data_service/intermagnet/imcdviewInstaller/install.htm)
 
 Imcdview is an application for working with the CDs and DVDs of 1-minute definitive data that INTERMAGNET has published annually since 1991. The programme is compiled and will run on Microsoft Windows, SOLARIS, Linux and OS X (source code is not included). The program allows you to view minute, hourly and daily mean data and to scroll rapidly through data sets, and also to view quality control information such as comparison of instruments at an observatory, comparison of data between nearby observatories and plots of the 'baseline' at an observatory - an important indicator of the quality of measurements. Metdata such as observatory location and contact details for institutes is also available.
 
@@ -44,7 +44,7 @@ Autoplot was developed under the NASA Virtual Observatories for Heliophysics pro
 
 A collection of source code including routines in Python, Mathematica, Matlab, IDL and Java for reading and writing the INTERMAGNET CDF format ImagCDF. This repository is open for other source code that would be useful to the community and we encourage contributions.
 
-### [Gm_convert](https://geomag.bgs.ac.uk/data_service/intermagnet/resource/GM_Convert/)
+### [Gm_convert](https://geomag.bgs.ac.uk/data_service/intermagnet/home.html)
 
 This software allows you to convert between a number of geomagnetic formats. The program can read the following formats: WDC; INTERMAGNET Minute Mean Format; IAGA-2002; INTERMAGENT Archive Format; INTERAMGNET-CDF; INTERMAGNET-DKA. It converts to either INTERMAGNET Archive Format, IAGA-2002 or INTERAMGNET-CDF. The program can convert from large numbers of input files in multiple formats. It is designed so that, once the necessary information has been collected from the user, the conversion will take place without requiring further input, meaning that long conversion tasks can run unattended.
 
