@@ -10,7 +10,7 @@
     - name: Data Formats (external)
       href: http://www.intermagnet.org/data-donnee/formatdata-eng.php
     - name: Observatory Plots (external)
-      href: http://www.intermagnet.org/data-donnee/dataplot-eng.php
+      href: /new_data_download.html
     - name: Geomagnetic Activity Map (external)
       href: http://www.intermagnet.org/activitymap/activitymap-eng.php
     - name: Data Quality Checking

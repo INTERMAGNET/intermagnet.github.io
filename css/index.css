@@ -30,3 +30,11 @@ h3 {
     float: none;
     margin-bottom: 1rem;
 }
+
+/* style for an alert box */
+.alert {
+  padding: 20px;
+  background-color: #f44336; /* Red */
+  color: white;
+  margin-bottom: 15px;
+}
