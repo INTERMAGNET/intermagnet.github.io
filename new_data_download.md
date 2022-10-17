@@ -7,7 +7,7 @@
 The host for the INTERMAGNET data portal is moving from Natural Resources Canada (NRCan) to the 
 British Geological Survey (BGS). A number of services provided by NRCan, including web site 
 download and ftp access to INTERMAGNET provisional and real-time data, will stop at the end of 
-November 2022. Replacement services are already available from BGS., though nNot all the data 
+November 2022. Replacement services are already available from BGS. Not all the data 
 that is available from NRCan’s implementation of the data portal is currently available at the 
 BGS data portal, but work is hand to complete the transfer of all data by the end of November 
 2022. The way you access data via the new services at BGS differs from how you have accessed 
