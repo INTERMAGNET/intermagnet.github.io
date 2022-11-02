@@ -29,7 +29,7 @@ has already been largely withdrawn. INTERMAGNET is likely to withdraw the ftp se
 ### Access to old portals at Natural Resources Canada ###
 
 Original data portal:
-[href: http://www.intermagnet.org/data-donnee/dataplot-eng.php](href: http://www.intermagnet.org/data-donnee/dataplot-eng.php)
+[http://www.intermagnet.org/data-donnee/dataplot-eng.php](http://www.intermagnet.org/data-donnee/dataplot-eng.php)
 
 Original ftp site: 
 [ftp://ftp.seismo.nrcan.gc.ca/intermagnet/](ftp://ftp.seismo.nrcan.gc.ca/intermagnet/)
