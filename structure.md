@@ -6,8 +6,8 @@ title: Organizational Structure
 
 The Executive Council establishes policy for INTERMAGNET, deals with questions of international participation and data exchange and communicates with national agencies and international scientific and funding agencies. It is assisted and advised by the Operations Committee.
 
-- Alan Thomson (United Kingdom), Chairman
-- David Boteler (Canada)
+- David Boteler (Canada), Chair
+- Ellen Clarke (United Kingdom)
 - Gauthier Hulot (France)
 - Kristen Lewis (United States of America)
 
