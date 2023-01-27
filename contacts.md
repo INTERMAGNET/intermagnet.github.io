@@ -8,8 +8,8 @@ The Executive Council establishes [policy for INTERMAGNET](/_includes/index/prin
 
 | Name |  Email | Telephone | Country |
 |------|--------|-----------|---------|
-| Alan Thomson | awpt@bgs.ac.uk | +44 (0) 131-650-0257 | United Kingdom |
 | David Boteler | david.boteler@canada.ca | 1-613-837-2035 | Canada |
+| Ellen Clarke | ecla@bgs.ac.uk | +44 (0) 131-650-0233 | United Kingdom |
 | Gauthier Hulot | gh@ipgp.fr | +33 (0)1 83 95 74 78 | France |
 | Krissy Lewis | klewis@usgs.gov | 1-303-273-8471 | United States of America |
 
