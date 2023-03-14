@@ -5,12 +5,12 @@
   subnavs:
     - name: Data Conditions
       href: /data_conditions.html
+    - name: Data Download and Plots
+      href: /new_data_download.html
     - name: Data Download - NRCan FTP (to be deprecated)
       href: ftp://ftp.seismo.nrcan.gc.ca/intermagnet/
     - name: Data Formats (external)
       href: http://www.intermagnet.org/data-donnee/formatdata-eng.php
-    - name: Observatory Plots (external)
-      href: /new_data_download.html
     - name: Geomagnetic Activity Map (to be deprecated)
       href: http://www.intermagnet.org/activitymap/activitymap-eng.php
     - name: Data Quality Checking
