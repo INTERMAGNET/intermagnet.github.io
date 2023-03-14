@@ -1,5 +1,5 @@
 ---
- title: Observatory Plots
+ title: Data Download and Plots
 ---
 
 ## INTERMAGNET Data Portal Moving
