@@ -37,7 +37,6 @@ Data users can be confident definitive data from INTERMAGNET magnetic observator
 |Matthew Gard                      |Geoscience Australia                            |
 |Orsi Baillie                      |British Geological Survey                       |
 |Seiki Asari                       |Japan Meteorological Agency                     |
-|Sergey Y. Khomutov                |Observatory Paratunka, Russia                   |
 |Tero Raita                        |Sodankyla Geophysical Observatory, Finland      |
 
 The list of IMOs and responsible Data Checking Task Team members can change from year to year. Current information is provided to IMOs annually in  a call-for-data 
