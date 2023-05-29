@@ -21,7 +21,7 @@ The following facilities are available:
   [https://imag-data.bgs.ac.uk/GIN_V1/](https://imag-data.bgs.ac.uk/GIN_V1/)
 - A HAPI web service interface to INTERMAGNET data:
   [https://imag-data.bgs.ac.uk/GIN_V1/hapi](https://imag-data.bgs.ac.uk/GIN_V1/hapi).
-  For information about HAPI see [https://hapi-server.github.io](https://hapi-server.github.io).
+  For information about HAPI see [https://hapi-server.org/](https://hapi-server.org/).
 - An ftp service: imag-ftp.bgs.ac.uk
   
 We encourage you to use the web services in preference to the ftp service. It will become 
