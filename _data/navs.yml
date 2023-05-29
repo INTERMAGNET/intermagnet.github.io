@@ -7,8 +7,8 @@
       href: /data_conditions.html
     - name: Data Download and Plots
       href: /new_data_download.html
-    - name: Data Formats (external)
-      href: http://www.intermagnet.org/data-donnee/formatdata-eng.php
+    - name: Data Formats (Technical Reference Manual)
+      href: /publications.html#tech-man-500
     - name: Data Quality Checking
       href: /data_checkers.html
 
@@ -33,15 +33,15 @@
       href: /structure.html
     - name: FAQ
       href: /faq/
-    - name: Technical Reference Manual (external)
-      href: http://www.intermagnet.org/publication-software/technicalsoft-eng.php
+    - name: Technical Reference Manual
+      href: /publications.html#tech-man-500
     - name: Publications
       href: /publications.html
     - name: Meetings
       href: /meetings.html
     - name: Software
       href: /software.html
-    - name: Yearbooks (external)
+    - name: Yearbooks
       href: /yearbooks.html
     - name: Geomagnetic Information Nodes
       href: /gins.html

@@ -11,8 +11,6 @@ title: Publications
 | [An International Network of Magnetic Observatories (PDF)](/docs/publications/eost2013EO420001.pdf) | J. Love, A. Chulliat |
 | [Modernizing a global magnetic partnership, Eos 102](https://doi.org/10.1029/2021EO156569) | A.W.P. Thomson, S.M. Flower |
 
-
-
 ## Technical Reference Manual
 
 | Title | Author |
