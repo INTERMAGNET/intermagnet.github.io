@@ -31,6 +31,7 @@ Data users can be confident definitive data from INTERMAGNET magnetic observator
 |David Calp                        |Natural Resources Canada                        |
 |Emmanuel Nahayo                   |SANSA Space Science, South Africa               |
 |Hiroaki Toh                       |Kyoto University, Japan                         |
+|Igor Mandic                       |University of Zagreb, Croatia                   |
 |Jan Reda                          |Institute of Geophysics, Polish Ac. of Science  |
 |Kusumita Arora                    |National Geophysical Research Institute, India  |
 |Margaret Pueringer                |U.S. Geological Survey                          |
