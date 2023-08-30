@@ -1,0 +1,8 @@
+# conda requirements file to create virtual environment for INTERMAGNET web site
+# use like this: conda env create -f requirements.yml
+name: intermagnet.github.io
+dependencies:
+ - python=3.6
+ - pip:
+   - grip==4.5.2
+
