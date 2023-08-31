@@ -57,11 +57,23 @@ More information on grip [here](https://github.com/joeyespo/grip).
 
 1. If you don't have Ruby installed, install Ruby 2.1.0 or higher from [here](https://www.ruby-lang.org/en/downloads/).
 
+For Debian 10, you can do this:
+```bash
+sudo apt-get install ruby ruby-dev make gcc g++ zlib1g zlib1g-dev git
+```
+
 2. Using a command shell go to the folder that contains the cloned copy of the repository on your computer and type these commands to install Jekyll:
 
 ```bash
 gem install bundler
 bundle install
+```
+
+On a Debian 10 machine where you don't have access to system resources, you can do this instead:
+
+```bash
+gem install bundler --user-install
+~/.gem/ruby/2.5.0/bin/bundle install --path ~/.gem/
 ```
 
 3. Run Jekyll like this (from the same folder as step 2). This
@@ -70,6 +82,12 @@ bundle install
 
 ```bash
 bundle exec jekyll serve
+```
+
+For the Debian 10 install above, the command to run Jekyll is:
+
+```bash
+~/.gem/ruby/2.5.0/bin/bundle exec jekyll serve
 ```
 
    More information on Jekyll [here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
