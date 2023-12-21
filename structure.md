@@ -17,7 +17,7 @@ The Operations Committee advises the Executive Council on the technical issues t
 
 ### Operations Committee Structure
 
-- Simon Flower, Chairman
+- Jürgen Matzka, Chairman
 - Andrew Lewis, Secretary
 
 | Name | Definitive Data | WWW, GINS, and Data Format | IMO Applications | Technical Manual | Instrumentation and Data Acquisition |
@@ -25,18 +25,17 @@ The Operations Committee advises the Executive Council on the technical issues t
 | Achim Morschhauser | Member (S) | Member (P) | | | Member (S) |
 | Andrew Lewis | Member (S) | | Deputy Chair (P) | Member (P) | |
 | Benoit Heumez | Deputy Chair (P) | | Member (S) | | |
-| Benoit St-Louis | | | Member (P) | Chair (P) | Member (S) |
 | Charles Blais | Member (P) | Chair (P) | | | |
 | Chris Turbitt | | | Chair (P) | Deputy Chair (P) | Member (S) |
 | Jan Reda | Chair (P) | Member (P) | | | |
-| Jurgen Matzka | | | Member (P) | Member (P) | Member (S) |
+| Jürgen Matzka | | | Member (P) | Member (P) | Member (S) |
 | Roman Leonhardt | Member (P) | Member (P) | | | |
 | Shun Imajo | Member (S) | Member (P) | | | |
 | Simon Flower | Member (P) | Member (P) | | | |
-| Stephan Bracke | | Member (P) | | Member (S) | |
+| Stephan Bracke | | Member (S) | | Chair (P) | |
 | Tero Raita | Member (P) | | Member (S) | | |
 | Virginie Maury | Member (P) | Member (P) | Member (S) | | |
 | **No. of members** | **10** | **8** | **7** | **5** | **4** |
 
 - (P) = primary affiliation
-- (S) = secondar affiliation
+- (S) = secondary affiliation
