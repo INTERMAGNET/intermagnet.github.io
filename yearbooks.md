@@ -61,6 +61,11 @@ title: Yearbooks
 | Polish Academy of Sciences | 2015 | [PDF](/yearbooks/Poland_2015.pdf "Polish Academy of Sciences, annual report 2015") |
 | Polish Academy of Sciences | 2016 | [PDF](/yearbooks/Poland_2016.pdf "Polish Academy of Sciences, annual report 2016") |
 | Polish Academy of Sciences | 2017 | [PDF](/yearbooks/Poland_2017.pdf "Polish Academy of Sciences, annual report 2017") |
+| Polish Academy of Sciences | 2018 | [PDF](/yearbooks/Poland_2018.pdf "Polish Academy of Sciences, annual report 2018") |
+| Polish Academy of Sciences | 2019 | [PDF](/yearbooks/Poland_2019.pdf "Polish Academy of Sciences, annual report 2019") |
+| Polish Academy of Sciences | 2020 | [PDF](/yearbooks/Poland_2020.pdf "Polish Academy of Sciences, annual report 2020") |
+| Polish Academy of Sciences | 2021 | [PDF](/yearbooks/Poland_2021.pdf "Polish Academy of Sciences, annual report 2021") |
+| Polish Academy of Sciences | 2022 | [PDF](/yearbooks/Poland_2022.pdf "Polish Academy of Sciences, annual report 2022") |
 | Geological Survey of Sweden | 1986, 1987, 1988, 1989 | [PDF](/yearbooks/sgu_cb23_8689.pdf "Geological Survey of Sweden, annual report 1986, 1987, 1988, 1989") |
 | Geological Survey of Sweden | 1990, 1991, 1992, 1993 | [PDF](/yearbooks/sgu_cb24_9093.pdf "Geological Survey of Sweden, annual report 1990, 1991, 1992, 1993") |
 | Geological Survey of Sweden | 1994, 1995, 1996, 1997 | [PDF](/yearbooks/sgu_cb25_9497.pdf "Geological Survey of Sweden, annual report 1994, 1995, 1996, 1997") |
