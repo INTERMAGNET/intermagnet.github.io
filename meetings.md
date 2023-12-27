@@ -2,6 +2,16 @@
 title: Meetings
 ---
 
+## Sopron 2023
+
+| Title  | Author |
+|--------|--------|
+|[INTERMAGNET Minutes Sopron May 2023 (PDF)](/meetings/2023May-Sopron/INTERMAGNETMeetingMinutes-SopronMay2023-Public.pdf)|A. Lewis, D. Boteler, S Flower, J. Reda, B. St-Louis, C. Turbitt|
+|[Status of One-second Definitive Data 2019-2022 (PPTX)](/meetings/2023May-Sopron/Reda_1sec_definitive_2019_2022.pptx)|J. Reda|
+|[One-minute and One-second Definitve Data Publication Comparison (PPTX)](/meetings/2023May-Sopron/Reda_Publication_state_1min_1sec.pptx)|J. Reda|
+|[Definitive Data Timeliness, Including IRDS and DOIs (PPTX)](/meetings/2023May-Sopron/Reda_Report_on_definitive_data_timeliness.pptx )|J. Reda|
+|[Kiev Geomagnetic Observatory (PPTX)](/meetings/2023May-Sopron/Sumaruk_KievObservatory.pptx )|Y. Sumaruk|
+
 ## On-line September 2021
 
 | Title  | Author |
