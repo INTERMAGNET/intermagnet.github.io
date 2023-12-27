@@ -5,9 +5,7 @@ title: INTERMAGNET Data - conditions of use
 <!-- This section copied from Creative Commons - please don't change -->
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Unless otherwise noted, data downloaded through INTERMAGNET is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. A list of institutes with different license conditions is given at the end of this page.
 
-INTERMAGNET data are available as digital data files, via the INTERMAGNET web site [www.intermagnet.org](www.intermagnet.org), or via INTERMAGNET's ftp server [ftp.seismo.nrcan.gc.ca](ftp://ftp.seismo.nrcan.gc.ca). The availability of preliminary data files is dependent on the publishing delay of participating institutes. Data from observatories that are not members of INTERMAGNET and data prior to INTERMAGNET commencing operation may be available via one of the World Data Centres for Geomagnetism (WDC) or from the observatory contact of the specific Magnetic Observatory, which can be found at [http://www.intermagnet.org/imos/imotblobs-eng.php](http://www.intermagnet.org/imos/imotblobs-eng.php).
-
-Plots can be generated for all INTERMAGNET data. To create a plot go to the 'plot' section of the [INTERMAGNET web site](http://intermagnet.org/data-donnee/dataplot-eng.php).
+INTERMAGNET data and plots are available, via the INTERMAGNET web site [www.intermagnet.org](https://intermagnet.org/new_data_download.html). The availability of preliminary data files is dependent on the publishing delay of participating institutes. Data from observatories that are not members of INTERMAGNET and data prior to INTERMAGNET commencing operation may be available via one of the World Data Centres for Geomagnetism (WDC) or from the observatory contact of the specific Intermagnet Magnetic Observatory, which can be found at [https://intermagnet.org/metadata/#/imos](https://intermagnet.org/metadata/#/imos).
 
 The member institutes of INTERMAGNET invest considerable resources to operate their magnetic observatories to INTERMAGNET standards. It is important that the institutes producing the data have a measure of the scientific return on their investment.
 
@@ -26,7 +24,7 @@ INTERMAGNET publishes its data in the form of Digital Object Identifiers (DOIs).
 
 The preferred method for acknowledging INTERMAGNET data is to cite relevant DOIs. However much of INTERMAGNET's data is not available as a DOI. DOIs are not yet available for the original annual publications of definitive data from 1991 to 2012 or for any preliminary INTERMAGNET data.
 
-Where DOIs are not available, publications making use of INTERMAGNET data should include an acknowledgement statement of the form given below. A citation reference should be sent to the INTERMAGNET Secretary for inclusion in a publications list on the INTERMAGNET website. The secretary's address can be found at [http://www.intermagnet.org/structops-eng.php](http://www.intermagnet.org/structops-eng.php).
+Where DOIs are not available, publications making use of INTERMAGNET data should include an acknowledgement statement of the form given below. A citation reference should be sent to the [INTERMAGNET Secretary](mailto:secretary_intermagnet@gfz-potsdam.de) for inclusion in a publications list on the INTERMAGNET website.
 
 We offer two acknowledgement templates. The first is for cases where data from many observatories have been used and it is not practical to list them all, or each of their operating institutes. The second is for cases where research results have been produced using a smaller set of observatories.
 

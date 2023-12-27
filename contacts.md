@@ -4,7 +4,7 @@ title: Contacts
 
 ## Executive Council
 
-The Executive Council establishes [policy for INTERMAGNET](/_includes/index/principles.html), deals with questions of international participation and data exchange and communicates with national agencies and international scientific and funding agencies. It is assisted and advised by [the Operations Committee](#operations-committee).
+The Executive Council establishes policy for INTERMAGNET, deals with questions of international participation and data exchange and communicates with national agencies and international scientific and funding agencies. It is assisted and advised by [the Operations Committee](#operations-committee).
 
 | Name |  Email | Telephone | Country |
 |------|--------|-----------|---------|
@@ -15,7 +15,7 @@ The Executive Council establishes [policy for INTERMAGNET](/_includes/index/prin
 
 ## Operations Committee
 
-The Operations Committee advises [the Executive Council](#executive-council) on the technical issues that arise within INTERMAGNET. This includes matters relating to instrumentation, data processing and communications. The Committee is also responsible for establishing and maintaining standards and formats for the global exchange of data under the INTERMAGNET programme, for designing and publishing [the INTERMAGNET Technical Manual](/docs/Technical-Manual/technical_manual.pdf) and producing [annual DOI data sets](/data_conditions.md) and [CD/DVD data](http://www.intermagnet.org/data-donnee/cdrom/cddata-eng.php).
+The Operations Committee advises [the Executive Council](#executive-council) on the technical issues that arise within INTERMAGNET. This includes matters relating to instrumentation, data processing and communications. The Committee is also responsible for establishing and maintaining standards and formats for the global exchange of data under the INTERMAGNET programme, for designing and publishing [the INTERMAGNET Technical Manual](/docs/Technical-Manual/technical_manual.pdf) and producing [annual DOI data sets](/data_conditions.md).
 
 | Name |  Email | Telephone | Country |
 |------|--------|-----------|---------|
