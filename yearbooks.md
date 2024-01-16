@@ -32,6 +32,7 @@ title: Yearbooks
 | Geoscience Australia | 2011 | [PDF](/yearbooks/Australia_2011.pdf "Geoscience Australia, annual report 2011") |
 | Geoscience Australia | 2012 | [PDF](/yearbooks/Australia_2012.pdf "Geoscience Australia, annual report 2012") |
 | Geoscience Australia | 2013, 2014, 2015, 2016 | [PDF](/yearbooks/Australia_2013_2016.pdf "Geoscience Australia, annual report 2013, 2014, 2015, 2016") |
+| Geoscience Australia | 2017, 2018, 2019, 2020, 2021 | [PDF](/yearbooks/Australia_2017_2021.pdf "Geoscience Australia, 2017 - 2021") |
 | Helmholtz Centre Potsdam GFZ German Research Centre for Geosciences | 2000 | [PDF](/yearbooks/Niemegk_Wingst_2000.pdf "Helmholtz Centre Potsdam GFZ German Research Centre for Geosciences, annual report 2000") |
 | Helmholtz Centre Potsdam GFZ German Research Centre for Geosciences | 2001, 2002, 2003 | [PDF](/yearbooks/Niemegk_Wingst_2001_2003.pdf "Helmholtz Centre Potsdam GFZ German Research Centre for Geosciences, annual report 2001, 2002, 2003") |
 | Institut de Physique du Globe de Paris | 2002 | [PDF](/yearbooks/France_2002.pdf "Institut de Physique du Globe de Paris, annual report 2002") |
