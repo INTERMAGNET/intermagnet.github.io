@@ -19,14 +19,14 @@ The Operations Committee advises [the Executive Council](#executive-council) on 
 
 | Name |  Email | Telephone | Country |
 |------|--------|-----------|---------|
-| Achim Morschhauser | mors@gfz-potsdam.de | +49 33843 624 18 | Germany |
+| Achim Ohlert | mors@gfz-potsdam.de |  | Germany |
 | Andrew Lewis | andrew.lewis@ga.gov.au | +61 2 6249 9764 | Australia |
 | Benoit Heumez | heumez@ipgp.fr | (+33) 2 38 33 95 01 | France |
 | Benoit St-Louis | benoit.st-louis@canada.ca | 1-613-837-4244 | Canada |
 | Charles Blais | charles.blais@canada.ca | 1-613-298-1292 | Canada |
 | Chris Turbitt | c.turbitt@bgs.ac.uk | +44 (0) 131-650-0240 | United Kingdom |
 | Jan Reda | jreda@igf.edu.pl | (48) 48 6610830 | Poland |
-| Jurgen Matzka | jmat@gfz-potsdam.de | +49 (0)33843-624-0 | Germany |
+| Jurgen Matzka | jmat@gfz-potsdam.de | +49 (0)331-6264-1232 | Germany |
 | Roman Leonhardt | roman.leonhardt@zamg.ac.at | +43 (0)1-36026-2507 | Austria |
 | Shun Imajo | imajo@kugi.kyoto-u.ac.jp | +81-75-753-3959 | Japan
 | Simon Flower | smf@bgs.ac.uk | +44 (0) 131-650-0238 | United Kingdom |
