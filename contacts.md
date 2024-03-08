@@ -12,6 +12,8 @@ The Executive Council establishes policy for INTERMAGNET, deals with questions o
 | Ellen Clarke | ecla@bgs.ac.uk | +44 (0) 131-650-0233 | United Kingdom |
 | Gauthier Hulot | gh@ipgp.fr | +33 (0)1 83 95 74 78 | France |
 | Krissy Lewis | klewis@usgs.gov | 1-303-273-8471 | United States of America |
+| Andrew Lewis | andrew.lewis@ga.gov.au | +61 2 6249 9764 | Australia |
+| Jürgen Matzka | jmat@gfz-potsdam.de | +49 (0)331-6264-1232 | Germany |
 
 ## Operations Committee
 
@@ -26,7 +28,7 @@ The Operations Committee advises [the Executive Council](#executive-council) on 
 | Charles Blais | charles.blais@canada.ca | 1-613-298-1292 | Canada |
 | Chris Turbitt | c.turbitt@bgs.ac.uk | +44 (0) 131-650-0240 | United Kingdom |
 | Jan Reda | jreda@igf.edu.pl | (48) 48 6610830 | Poland |
-| Jurgen Matzka | jmat@gfz-potsdam.de | +49 (0)331-6264-1232 | Germany |
+| Jürgen Matzka | jmat@gfz-potsdam.de | +49 (0)331-6264-1232 | Germany |
 | Roman Leonhardt | roman.leonhardt@zamg.ac.at | +43 (0)1-36026-2507 | Austria |
 | Shun Imajo | imajo@kugi.kyoto-u.ac.jp | +81-75-753-3959 | Japan
 | Simon Flower | smf@bgs.ac.uk | +44 (0) 131-650-0238 | United Kingdom |

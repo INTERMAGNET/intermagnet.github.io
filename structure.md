@@ -10,6 +10,8 @@ The Executive Council establishes policy for INTERMAGNET, deals with questions o
 - Ellen Clarke (United Kingdom)
 - Gauthier Hulot (France)
 - Kristen Lewis (United States of America)
+- Andrew Lewis (Australia)
+- Jürgen Matzka (Germany)
 
 ## Operations Committee
 
