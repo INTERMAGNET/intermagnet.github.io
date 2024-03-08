@@ -12,7 +12,7 @@ INTERMAGNET does not endorse or recommend any of the non-INTERMAGNET software. T
 
 MagPy (or GeomagPy) is a Python package for analysing and displaying geomagnetic data. MagPy provides tools for geomagnetic data analysis with special focus on typical data processing routines in observatories. MagPy provides methods for data format conversion, plotting and mathematical procedures with specifically geomagnetic analysis routines such as basevalue and baseline calculation and database handling. Among the supported data formats are ImagCDF, IAGA-02, WDC, IMF, IAF, BLV, and many more. Full installation also provides a graphical user interface, xmagpy.
 
-### [ObsMat](https://gitext.gfz-potsdam.de/mors/OBS_MAT)
+### [ObsMat](https://git.gfz-potsdam.de/mors/OBS_MAT)
 
 ObsMat is a collection of MATLAB routines to analyze, calibrate, display and check geomagnetic data. Internally, data are stored in a custom cdf file format that includes all information to produce definitive data. An interactive tool for flagging and displaying geomagnetic data, called varlab, is part of the package.
 
@@ -60,6 +60,6 @@ Software to check INTERMAGNET 1 minute definitive data, as described in the INTE
 
 ## Data acquisition
 
-### [GeomagLogger](https://gitext.gfz-potsdam.de/mors/GeomagLogger/)
+### [GeomagLogger](https://git.gfz-potsdam.de/mors/GeomagLogger/)
 
 A C++ software package for logging data at geomagnetic observatories.

@@ -22,7 +22,7 @@ The Operations Committee advises the Executive Council on the technical issues t
 
 | Name | Definitive Data | WWW, GINS, and Data Format | IMO Applications | Technical Manual | Instrumentation and Data Acquisition |
 |------|-----------------|----------------------------|------------------|------------------|--------------------------------------|
-| Achim Morschhauser | Member (S) | Member (P) | | | Member (S) |
+| Achim Ohlert | Member (S) | Member (P) | | | Member (S) |
 | Andrew Lewis | Member (S) | | Deputy Chair (P) | Member (P) | |
 | Benoit Heumez | Deputy Chair (P) | | Member (S) | | |
 | Charles Blais | Member (P) | Chair (P) | | | |
@@ -35,7 +35,7 @@ The Operations Committee advises the Executive Council on the technical issues t
 | Stephan Bracke | | Member (S) | | Chair (P) | |
 | Tero Raita | Member (P) | | Member (S) | | |
 | Virginie Maury | Member (P) | Member (P) | Member (S) | | |
-| **No. of members** | **10** | **8** | **7** | **5** | **4** |
+| **No. of members** | **10** | **8** | **6** | **4** | **3** |
 
 - (P) = primary affiliation
 - (S) = secondary affiliation
