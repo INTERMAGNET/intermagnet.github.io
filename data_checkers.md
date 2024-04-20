@@ -24,7 +24,6 @@ Data users can be confident definitive data from INTERMAGNET magnetic observator
 | Data Checking Task Team Officers | Institute                                      |
 |----------------------------------|------------------------------------------------|
 |Achim Ohlert                      |GFZ German Research Centre for Geosciences      |
-|Anca Isac                         |Surlari Observatory, Romania                    |
 |Andrew Lewis                      |Geoscience Australia                            |
 |Benoit Heumez                     |Institut de Physique du Globe de Paris, France  |
 |Claudia Rossavik                  |U.S. Geological Survey                          |
