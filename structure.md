@@ -41,3 +41,18 @@ The Operations Committee advises the Executive Council on the technical issues t
 
 - (P) = primary affiliation
 - (S) = secondary affiliation
+
+### GIN managers
+
+Intermagnet's Geomagnetic Information Nodes (GINs) are described
+on the [Geomagnetic Information Nodes](gins.md) page. Each GIN
+has a manager, who should be contacted with any questions relating
+to that GIN.
+
+| GIN | Institute | Manager |
+|-----|-----------|---------|
+| Edinburgh | British Geological Survey | Simon Flower
+| Golden | United States Geological Survey | Brendan Geels
+| Kyoto | Kyoto University | Shun Imajo
+| Ottawa | Natural Resources Canada | Charles Blais
+| Paris | Institut de Physique du Globe de Paris | Virginie Maury

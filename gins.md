@@ -22,3 +22,5 @@ These GINs use the following satellites:
 - GOES-W, covering West of the Americas
 - METEOSAT, covering Europe and Africa
 - GMS, covering Asia
+
+The GIN managers are listed on the [Organizational Structure](structure.md) page.

@@ -31,7 +31,7 @@ The Operations Committee advises [the Executive Council](#executive-council) on 
 | Jürgen Matzka | jmat@gfz-potsdam.de | +49 (0)331-6264-1232 | Germany |
 | Roman Leonhardt | roman.leonhardt@zamg.ac.at | +43 (0)1-36026-2507 | Austria |
 | Shun Imajo | imajo@kugi.kyoto-u.ac.jp | +81-75-753-3959 | Japan
-| Simon Flower | smf@bgs.ac.uk | +44 (0) 131-650-0238 | United Kingdom |
+| Simon Flower | smf@bgs.ac.uk | +44 (0) 131 667 1000 | United Kingdom |
 | Stephan Bracke | stbracke@meteo.be | +32(60)395409 | Belgium |
 | Tero Raita | tero.raita@sgo.fi | +358-294-480864 | Finland |
 | Virginie Maury | vmaury@ipgp.fr | 33 (0)1 83 95 77 80	 | France |
