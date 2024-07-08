@@ -2,11 +2,11 @@
  title: Data Download and Plots
 ---
 
-## INTERMAGNET Data Portal Moving
+## INTERMAGNET Data Portal
 
-The host for the INTERMAGNET data portal has moved from Natural Resources Canada (NRCan) to the  British Geological Survey (BGS). The service at BGS includes all INTERMAGNET data previously available from NRCan - the data has been copied between the two GINs.
+The INTERMAGNET data portal is hosted at the British Geological Survey (BGS). The service at BGS includes all INTERMAGNET provisonal and definitive data.
 
-The way you access data via the new services at BGS differs from how you have accessed data in the past using the services provided by NRCan. The following facilities are available:
+The data portal offers a number of ways to access Intermagnet data:
 
 - A data visualisation and download web site: 
   [https://imag-data.bgs.ac.uk/GIN_V1/GINForms2](https://imag-data.bgs.ac.uk/GIN_V1/GINForms2)
