@@ -7,6 +7,10 @@ body {
     padding-top: 4.5rem;
 }
 
+:target {
+    scroll-margin-top: 4.5rem;
+}
+
 /* CUSTOMIZE CONTENT
 -------------------------------------------------- */
 
