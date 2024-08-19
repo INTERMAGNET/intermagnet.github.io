@@ -22,6 +22,7 @@ INTERMAGNET publishes its data in the form of Digital Object Identifiers (DOIs).
 - [https://doi.org/10.5880/INTERMAGNET.1991.2017](https://doi.org/10.5880/INTERMAGNET.1991.2017)
 - [https://doi.org/10.5880/INTERMAGNET.1991.2018](https://doi.org/10.5880/INTERMAGNET.1991.2018)
 - [https://doi.org/10.5880/INTERMAGNET.1991.2019](https://doi.org/10.5880/INTERMAGNET.1991.2019)
+- [https://doi.org/10.5880/INTERMAGNET.1991.2020](https://doi.org/10.5880/INTERMAGNET.1991.2020)
 
 The preferred method for acknowledging INTERMAGNET data is to cite relevant DOIs. However much of INTERMAGNET's data is not available as a DOI. DOIs are not yet available for the original annual publications of definitive data from 1991 to 2012 or for any preliminary INTERMAGNET data.
 
