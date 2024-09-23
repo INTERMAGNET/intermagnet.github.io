@@ -2,6 +2,9 @@ body {
     padding-top: 3rem;
     padding-bottom: 3rem;
 }
+:target {
+    scroll-margin-top: 3rem;
+}
 
 .jumbotron {
     margin-bottom: 4rem;
