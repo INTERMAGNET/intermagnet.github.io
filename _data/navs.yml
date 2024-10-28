@@ -1,14 +1,11 @@
-- name: Home
-  href: /
-
 - name: Data
   subnavs:
     - name: Data Conditions
       href: /data_conditions.html
     - name: Data Download and Plots
       href: /new_data_download.html
-    - name: Data Formats (Technical Reference Manual)
-      href: /publications.html#tech-man-500
+    - name: Data Formats
+      href: /data_formats.html
     - name: Data Quality Checking
       href: /data_checkers.html
 
@@ -34,7 +31,7 @@
     - name: FAQ
       href: /faq/
     - name: Technical Reference Manual
-      href: /publications.html#tech-man-500
+      href: https://tech-man.intermagnet.org/stable/
     - name: Publications
       href: /publications.html
     - name: Meetings
