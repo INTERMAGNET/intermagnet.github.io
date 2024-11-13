@@ -22,25 +22,28 @@ The Operations Committee advises the Executive Council on the technical issues t
 - Jürgen Matzka, Chairman
 - Andrew Lewis, Secretary
 
-| Name | Definitive Data | WWW, GINS, and Data Format | IMO Applications | Technical Manual | Instrumentation and Data Acquisition |
+| Name | Definitive Data | GINS | IMO Applications and Standards | Technical Manual | Instrumentation and Data Acquisition |
 |------|-----------------|----------------------------|------------------|------------------|--------------------------------------|
-| Achim Ohlert | Member (S) | Member (P) | | | Member (S) |
-| Andrew Lewis | Member (S) | | Deputy Chair (P) | Member (P) | |
-| Benoit Heumez | Deputy Chair (P) | | Member (S) | | |
-| Charles Blais | Member (P) | Chair (P) | | | |
-| Chris Turbitt | | | Chair (P) | Deputy Chair (P) | Member (S) |
-| Jan Reda | Chair (P) | Member (P) | | | |
-| Jürgen Matzka | | | Member (P) | Member (P) | Member (S) |
-| Roman Leonhardt | Member (P) | Member (P) | | | |
-| Shun Imajo | Member (S) | Member (P) | | | |
-| Simon Flower | Member (P) | Member (P) | | | |
-| Stephan Bracke | | Member (S) | | Chair (P) | |
-| Tero Raita | Member (P) | | Member (S) | | |
-| Virginie Maury | Member (P) | Member (P) | Member (S) | | |
-| **No. of members** | **10** | **8** | **6** | **4** | **3** |
+| Andrew Lewis | | | Deputy Chair | Member | |
+| Benoit Heumez | Deputy Chair | | Member | | |
+| Brendan Geels | | Member | | | |
+| Charles Blais | | Member | | | |
+| Chris Turbitt | | | Chair | Deputy Chair | |
+| David Calp | | | Member | | |
+| Jan Reda | Co-Chair | | | | |
+| Jürgen Matzka | | | Member | | |
+| Kristina Rossavik | Member | | | |
+| Maggie Pueringer | Member | | Member | | |
+| Marcos Vinicius da Silva | Member | | | |
+| Matthew Gard | Member | | Member | |
+| Roman Leonhardt | Co-Chair | | | | |
+| Shun Imajo | | Member | | | |
+| Simon Flower | Member | Chair | | | |
+| Stephan Bracke | | Member | | Chair | |
+| Tero Raita | Member | | Member | | |
+| Virginie Maury | | Member | | | |
+| **No. of members** | **9** | **6** | **8** | **3** | **0** |
 
-- (P) = primary affiliation
-- (S) = secondary affiliation
 
 
 ### Data Checking Task Team
@@ -51,10 +54,9 @@ team are as follows:
 
 | Data Checking Task Team Officers | Institute                                      |
 |----------------------------------|------------------------------------------------|
-| Achim Ohlert                     | GFZ German Research Centre for Geosciences     |
 | Andrew Lewis                     | Geoscience Australia                           |
 | Benoit Heumez                    | Institut de Physique du Globe de Paris, France |
-| Claudia Rossavik                 | U.S. Geological Survey                         |
+| Kristina Rossavik                | U.S. Geological Survey                         |
 | David Calp                       | Natural Resources Canada                       |
 | Emmanuel Nahayo                  | SANSA Space Science, South Africa              |
 | Hiroaki Toh                      | Kyoto University, Japan                        |
