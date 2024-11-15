@@ -11,7 +11,7 @@ Annual definitive data from all INTERMAGNET magnetic observatories (IMOs) are ca
 - Data are reviewed by the chair of the INTERMAGNET Definitive Data subcommittee for final approval and publication.
 
 This multi-stage checking procedure does mean there are delays in publishing definitive data sets, but it ensures definitive data are of the highest possible quality.
-Data with a lower level of quality checking are available in a faster time-frame. Some IMOs provide "reported"  quality data in near-real time, all IMOs provide "reported" data within three days and many IMOs supply "adjusted" and "quasi-definitive" data. All these data are available from the INTERMAGNET [website](https://www.intermagnet.org/new_data_download.html) .
+Data with a lower level of quality checking are available in a faster time-frame. Some IMOs provide "reported"  quality data in near-real time, all IMOs provide "reported" data within three days and many IMOs supply "adjusted" and "quasi-definitive" data. All these data are available from the [INTERMAGNET data portal](data_portal) .
 
 ## Data Checking Task Team
 
