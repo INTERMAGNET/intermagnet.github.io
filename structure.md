@@ -44,7 +44,7 @@ The Operations Committee advises the Executive Council on the technical issues t
 | Stephan Bracke | | Member | | Chair | |
 | Tero Raita | Member | | Member | | |
 | Virginie Maury | | Member | | | |
-| **No. of members** | **9** | **6** | **8** | **3** | **0** |
+| **No. of members** | **9** | **6** | **8** | **5** | **0** |
 
 
 
