@@ -24,6 +24,7 @@ The Operations Committee advises the Executive Council on the technical issues t
 
 | Name | Definitive Data | GINS | IMO Applications and Standards | Technical Manual | Instrumentation and Data Acquisition |
 |------|-----------------|----------------------------|------------------|------------------|--------------------------------------|
+| Andras Csontos | | | | Memeber | |
 | Andrew Lewis | | | Deputy Chair | Member | |
 | Benoit Heumez | Deputy Chair | | Member | | |
 | Brendan Geels | | Member | | | |
@@ -37,6 +38,7 @@ The Operations Committee advises the Executive Council on the technical issues t
 | Marcos Vinicius da Silva | Member | | | |
 | Matthew Gard | Member | | Member | |
 | Roman Leonhardt | Co-Chair | | | | |
+| Seiki Asari | | | | Memeber | |
 | Shun Imajo | | Member | | | |
 | Simon Flower | Member | Chair | | | |
 | Stephan Bracke | | Member | | Chair | |
