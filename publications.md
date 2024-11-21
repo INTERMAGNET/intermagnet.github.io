@@ -13,9 +13,10 @@ title: Publications
 
 ## Technical Reference Manual
 
-| Title | Author |
-|-------|--------|
-| <a name="tech-man-500"></a> [Technical Reference Manual V-5.0.0 (PDF)](/docs/Technical-Manual/technical_manual.pdf) | B. St-Louis |
+| Title                                                                                                         | Author      |
+|---------------------------------------------------------------------------------------------------------------|-------------|
+| [Technical Reference Manual Latest Stable (PDF)]( https://tech-man.intermagnet.org/_/downloads/en/stable/pdf/) | B. St-Louis |
+| [Technical Reference Manual V-5.0.0 (PDF)]( https://doi.org/10.48440/INTERMAGNET.2020.001)                    | B. St-Louis |
 
 ## Technical Notes
 
