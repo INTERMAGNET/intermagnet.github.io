@@ -13,7 +13,7 @@ The data made available through INTERMAGNET are provided for your use and are no
 
 ## Acknowledgement of data from observatories participating in INTERMAGNET
 
-INTERMAGNET publishes its data in the form of Digital Object Identifiers (DOIs). Definitive INTERMAGNET data publications from 2013 onwards are available as [DOIs](/new_data_download.html#downloading_data_using_dois).
+INTERMAGNET publishes its data in the form of Digital Object Identifiers (DOIs). Definitive INTERMAGNET data publications from 2013 onwards are available as [DOIs](/data_download.html#downloading_data_using_dois).
 
 The preferred method for acknowledging INTERMAGNET data is to cite relevant DOIs. However much of INTERMAGNET's data is not available as a DOI. DOIs are not yet available for the original annual publications of definitive data from 1991 to 2012 or for any preliminary INTERMAGNET data.
 
