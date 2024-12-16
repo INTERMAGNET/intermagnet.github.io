@@ -14,12 +14,16 @@
                 <li class="nav-item dropdown {{active}}">
                     <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdown{{ forloop.index }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ nav.name }}</a>
                     <div class="dropdown-menu" aria-labelledby="dropdown{{ forloop.index }}">
-                        {% for nav in nav.subnavs %}
+                        {% for subnav in nav.subnavs %}
                         {% assign active = "" %}
-                        {% if page.url == nav.href %}
+                        {% if page.url == subnav.href %}
                             {% assign active = "active" %}
                         {% endif %}
-                        <a class="dropdown-item {{active}}" href="{{ nav.href }}">{{ nav.name }}</a>
+                         {% if subnav.separator == true %}
+                                <div class="dropdown-divider"></div>
+                         {% else %}
+                            <a class="dropdown-item {{active}}" href="{{ subnav.href }}">{{ subnav.name }}</a>
+                          {% endif %}
                         {% endfor %}
                     </div>
                 </li>
