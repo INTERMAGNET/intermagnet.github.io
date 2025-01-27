@@ -30,8 +30,12 @@
       href: /structure.html
     - name: FAQ
       href: /faq/
-    - name: Technical Reference Manual
+    - separator: true
+    - name: Technical Reference Manual Online
       href: https://tech-man.intermagnet.org/stable/
+    - name: Technical Reference Manual PDF
+      href: https://tech-man.intermagnet.org/_/downloads/en/stable/pdf/
+    - separator: true
     - name: Publications
       href: /publications.html
     - name: Meetings
