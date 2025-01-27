@@ -23,7 +23,7 @@ The data portal offers a number of services:
   [https://imag-data.bgs.ac.uk/GIN_V1/GINTest2](https://imag-data.bgs.ac.uk/GIN_V1/GINTest2)
 - An ftp service: imag-ftp.bgs.ac.uk
   
-We encourage you to use the web services in preference to the ftp service. It will become increasingly difficult to access ftp servers in the future – support for ftp in web browsers has already been largely withdrawn. INTERMAGNET is likely to withdraw the ftp service in the future.
+**NOTE** The ftp service will be discontinued at the start of March 2025. BGS are no longer able to continue the ftp service because of security requirements. Please use the other services listed on this page as an alternative.
 
 ## <a name='downloading_data_using_dois'></a> Downloading Data Using DOIs
 
