@@ -21,7 +21,7 @@ The Operations Committee advises [the Executive Council](#executive-council) on 
 
 | Name |  Email | Telephone | Country |
 |------|--------|-----------|---------|
-| Andrew Lewis | andrew.lewis@ga.gov.au | +61 2 6249 9764 | Australia |
+| András Csontos | csontos.andras@epss.hun-ren.hu | +36 87 448501 | Hungary |
 | Andrew Lewis | andrew.lewis@ga.gov.au | +61 2 6249 9764 | Australia |
 | Benoit Heumez | heumez@ipgp.fr | (+33) 2 38 33 95 01 | France |
 | Charles Blais | charles.blais@canada.ca | 1-613-298-1292 | Canada |
