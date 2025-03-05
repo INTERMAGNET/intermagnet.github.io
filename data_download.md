@@ -21,10 +21,7 @@ The data portal offers a number of services:
   [https://imag-data.bgs.ac.uk/GIN_V1/GINStatistics](https://imag-data.bgs.ac.uk/GIN_V1/GINStatistics)
 - Access to data from observatories that are testing their data connection with INTERMAGNET (these data may not be observatory quality - you should check with the data provider before using these data):
   [https://imag-data.bgs.ac.uk/GIN_V1/GINTest2](https://imag-data.bgs.ac.uk/GIN_V1/GINTest2)
-- An ftp service: imag-ftp.bgs.ac.uk
   
-**NOTE** The ftp service will be discontinued at the start of March 2025. BGS are no longer able to continue the ftp service because of security requirements. Please use the other services listed on this page as an alternative.
-
 ## <a name='downloading_data_using_dois'></a> Downloading Data Using DOIs
 
 From 2015 onwards the entire definitive data set from Intermagnet is updated and published annually. 
