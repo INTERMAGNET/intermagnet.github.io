@@ -57,6 +57,7 @@ team are as follows:
 | Data Checking Task Team Officers | Institute                                      |
 |----------------------------------|------------------------------------------------|
 | Andrew Lewis                     | Geoscience Australia                           |
+| Barbara Leichter                 | Geopshere, Austria                             |
 | Benoit Heumez                    | Institut de Physique du Globe de Paris, France |
 | Kristina Rossavik                | U.S. Geological Survey                         |
 | David Calp                       | Natural Resources Canada                       |
@@ -65,6 +66,7 @@ team are as follows:
 | Igor Mandic                      | University of Zagreb, Croatia                  |
 | Jan Reda                         | Institute of Geophysics, Polish Ac. of Science |
 | Kusumita Arora                   | National Geophysical Research Institute, India |
+| Marcos Vinicius da Silva         | GFZ Helmholtz Centre for Geosciences           |
 | Margaret Pueringer               | U.S. Geological Survey                         |
 | Matthew Gard                     | Geoscience Australia                           |
 | Orsi Baillie                     | British Geological Survey                      |
