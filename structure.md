@@ -67,7 +67,6 @@ team are as follows:
 | Jan Reda                         | Institute of Geophysics, Polish Ac. of Science |
 | Kusumita Arora                   | National Geophysical Research Institute, India |
 | Marcos Vinicius da Silva         | GFZ Helmholtz Centre for Geosciences           |
-| Margaret Pueringer               | U.S. Geological Survey                         |
 | Matthew Gard                     | Geoscience Australia                           |
 | Orsi Baillie                     | British Geological Survey                      |
 | Seiki Asari                      | Japan Meteorological Agency                    |
