@@ -2,6 +2,15 @@
 title: Meetings
 ---
 
+## Rio de Janeiro 2024
+
+| Title  | Author |
+|--------|--------|
+|[IMO report Rio de Janeiro 2024 (PDF)](/meetings/2024-Rio/Lewis_INTERMAGNETMeetingReportRio2024.pdf)|A. Lewis|
+|INTERMAGNET Minutes Rio de Janeiro Nov 2024 (PDF)|A. Lewis, S. Bracke, D. Boteler, S. Flower, R. Leonhardt, J. Matzka, J. Reda, C. Turbitt|
+|[INTERMAGNET Real-Time Data (PPTX)](/meetings/2024-Rio/Flower_IntermagnetRealTime.pptx)|S. Flower|
+|[INTERMAGNET Presentation from XXth IAGA Workshop, Vassouras (PPTX)](/meetings/2024-Rio/Matzka_INTERMAGNET_presentation_IAGA_WS_2024.pptx)|J. Matzka|
+
 ## Sopron 2023
 
 | Title  | Author |
