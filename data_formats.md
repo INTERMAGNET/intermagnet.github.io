@@ -8,7 +8,7 @@ Descriptions of Data format can all be found in the [online Technical Reference 
 To access directly the different formats :
 
 - [IAGA2002 INTERMAGNET Exchange Format](https://tech-man.intermagnet.org/stable/appendices/dataformats.html#iaga2002-intermagnet-exchange-format-spreadsheet-compatible)
-- [IMAGCDFV1.2 INTERMAGNET Exchange Format](https://tech-man.intermagnet.org/stable/appendices/dataformats.html#imagcdfv1-2-intermagnet-exchange-format)
+- [IMAGCDF INTERMAGNET Exchange Format](https://tech-man.intermagnet.org/stable/appendices/dataformats.html#imagcdf-intermagnet-exchange-format)
 - [INTERMAGNET Gin Dissemination Format for Minute Values : IMFV1](https://tech-man.intermagnet.org/stable/appendices/dataformats.html#intermagnet-gin-dissemination-format-for-minute-values-imfv)
 - [INTERMAGNET Satellite Transmission Format : IMFV2](https://tech-man.intermagnet.org/stable/appendices/dataformats.html#intermagnet-satellite-transmission-format-imfv2-83)
 - [INTERMAGNET Baseline Format : IBF](https://tech-man.intermagnet.org/stable/appendices/dataformats.html#intermagnet-baseline-format-ibf)
