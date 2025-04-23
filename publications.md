@@ -15,7 +15,7 @@ title: Publications
 
 | Title                                                                                                         | Author      |
 |---------------------------------------------------------------------------------------------------------------|-------------|
-| [Technical Reference Manual Latest Stable (PDF)]( https://tech-man.intermagnet.org/_/downloads/en/stable/pdf/) | B. St-Louis |
+| [Technical Reference Manual Latest Stable (PDF)]( https://tech-man.intermagnet.org/_/downloads/en/stable/pdf/) | S. Bracke   |
 | [Technical Reference Manual V-5.1.1 (PDF)](https://doi.org/10.48440/INTERMAGNET.2024.001)                     | B. St-Louis |
 | [Technical Reference Manual V-5.0.0 (PDF)]( https://doi.org/10.48440/INTERMAGNET.2020.001)                    | B. St-Louis |
 
