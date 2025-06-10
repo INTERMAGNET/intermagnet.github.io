@@ -31,10 +31,10 @@ The Operations Committee advises the Executive Council on the technical issues t
 | Charles Blais | | Member | | | |
 | Chris Turbitt | | | Chair | Deputy Chair | |
 | David Calp | | | Member | | |
+| Igor Mandic | Member | | | | |
 | Jan Reda | Co-Chair | | | | |
 | Jürgen Matzka | | | Member | | |
 | Kristina Rossavik | Member | | | |
-| Maggie Pueringer | Member | | Member | | |
 | Marcos Vinicius da Silva | Member | | | |
 | Matthew Gard | Member | | Member | |
 | Roman Leonhardt | Co-Chair | | | | |
@@ -44,8 +44,6 @@ The Operations Committee advises the Executive Council on the technical issues t
 | Stephan Bracke | | Member | | Chair | |
 | Tero Raita | Member | | Member | | |
 | Virginie Maury | | Member | | | |
-| **No. of members** | **9** | **6** | **8** | **5** | **0** |
-
 
 
 ### Data Checking Task Team
