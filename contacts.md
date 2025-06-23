@@ -13,7 +13,7 @@ The Executive Council establishes policy for INTERMAGNET, deals with questions o
 | Gauthier Hulot | gh@ipgp.fr | France |
 | Krissy Lewis | klewis@usgs.gov | United States of America |
 | Andrew Lewis | andrew.lewis@ga.gov.au | Australia |
-| Jürgen Matzka | jmat@gfz-potsdam.de | Germany |
+| Jürgen Matzka | juergen.matzka@gfz.de | Germany |
 
 ## Operations Committee
 
@@ -28,14 +28,18 @@ The Operations Committee advises [the Executive Council](#executive-council) on 
 | Charles Blais            | charles.blais@canada.ca        | Canada                   |
 | Chris Turbitt            | c.turbitt@bgs.ac.uk            | United Kingdom           |
 | David Calp               | david.calp@NRCan-RNCan.gc.ca   | Canada                   |
+| Emmanuel Nahayo          | enahayo@sansa.org.za           | South Arfica             |
+| Igor Mandic              | igor.mandic@gfz.hr             | Croatia                  |
 | Jan Reda                 | jreda@igf.edu.pl               | Poland                   |
-| Jürgen Matzka            | jmat@gfz-potsdam.de            | Germany                  |
+| Jürgen Matzka            | juergen.matzka@gfz.de          | Germany                  |
 | Kristina Rossavik        | crossavik@usgs.gov             | United States of America |
-| Marcos Vinicius da Silva | mvsilva@gfz.de                 | Germany                  |                  
+| Manjula Lingala          | manjulalingala@gmail.com       | India                    |
+| Marcos Vinicius da Silva | mvsilva@gfz.de                 | Germany                  |
 | Matthew Gard             | matthew.gard@ga.gov.au         | Australia                |
+| Orsi Baillie             | orba@bgs.ac.uk                 | United Kingdom           |
+| Roman Leonhardt          | roman.leonhardt@geosphere.at   | Austria                  |
 | Seiki Asari              | asari@kakioka-jma.go.jp        | Japan                    |
 | Shun Imajo               | imajo.shun.4k@kyoto-u.ac.jp    | Japan                    |
-| Roman Leonhardt          | roman.leonhardt@zamg.ac.at     | Austria                  |
 | Simon Flower             | smf@bgs.ac.uk                  | United Kingdom           |
 | Stephan Bracke           | stbracke@meteo.be              | Belgium                  |
 | Tero Raita               | tero.raita@sgo.fi              | Finland                  |
