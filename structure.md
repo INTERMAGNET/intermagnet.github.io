@@ -13,6 +13,9 @@ The Executive Council establishes policy for INTERMAGNET, deals with questions o
 - Andrew Lewis (Australia)
 - Jürgen Matzka (Germany)
 
+Contact information is available on the [Contacts](contacts.md#executive-council) page
+
+
 ## Operations Committee
 
 The Operations Committee advises the Executive Council on the technical issues that arise within INTERMAGNET. This includes matters relating to instrumentation, data processing and communications. The Committee is also responsible for establishing and maintaining standards and formats for the global exchange of data under the INTERMAGNET programme, for designing and publishing the INTERMAGNET Technical Manual and producing the annual CD-ROM/DVD.
@@ -47,6 +50,9 @@ The Operations Committee advises the Executive Council on the technical issues t
 | Stephan Bracke | | Member | | Chair | |
 | Tero Raita | Member | | Member | | |
 | Virginie Maury | | Member | | | |
+
+
+Contact information is available on the [Contacts](contacts.md#operations-committee) page
 
 
 ### Data Checking Task Team
@@ -87,3 +93,7 @@ to that GIN.
 | Kyoto | Kyoto University | Shun Imajo
 | Ottawa | Natural Resources Canada | Charles Blais
 | Paris | Institut de Physique du Globe de Paris | Virginie Maury
+
+
+Contact information is available on the [Contacts](contacts.md#geomagnetic-information-nodes) page
+
