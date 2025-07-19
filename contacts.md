@@ -49,12 +49,12 @@ The Operations Committee advises [the Executive Council](#executive-council) on 
 ## Geomagnetic Information Nodes
 The GINs are the collection points for data within INTERMAGNET.
 
-| GIN | Manager | Email |
-|---------------|-------|
-| Edinburgh | Simon Flower | e_ginman@mail.nmh.ac.uk |
-| Golden |  Brendan Geels | bgeels@usgs.gov |
-| Kyoto |  Shun Imajo | wdc-service@kugi.kyoto-u.ac.jp  |
-| Ottawa |  Charles Blais | charles.blais@canada.ca |
-| Paris | Virgine Maury | vmaury@ipgp.fr  |
+| GIN       | Manager       | Email                           |
+|-----------|---------------|---------------------------------|
+| Edinburgh | Simon Flower  | e_ginman@mail.nmh.ac.uk         |
+| Golden    | Brendan Geels | bgeels@usgs.gov                 |
+| Kyoto     | Shun Imajo    | wdc-service@kugi.kyoto-u.ac.jp  |
+| Ottawa    | Charles Blais | charles.blais@canada.ca         |
+| Paris     | Virgine Maury | vmaury@ipgp.fr                  |
 
 
