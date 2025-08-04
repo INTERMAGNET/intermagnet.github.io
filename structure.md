@@ -38,7 +38,6 @@ The Operations Committee advises the Executive Council on the technical issues t
 | Igor Mandic | Member | | | | |
 | Jan Reda | Co-Chair | | | | |
 | Jürgen Matzka | | | Member | | |
-| Kristina Rossavik | Member | | | |
 | Manjula Lingala | Memeber | | | |
 | Marcos Vinicius da Silva | Member | | | |
 | Matthew Gard | Member | | Member | |
@@ -66,7 +65,6 @@ team are as follows:
 | Andrew Lewis                     | Geoscience Australia                           |
 | Barbara Leichter                 | Geopshere, Austria                             |
 | Benoit Heumez                    | Institut de Physique du Globe de Paris, France |
-| Kristina Rossavik                | U.S. Geological Survey                         |
 | David Calp                       | Natural Resources Canada                       |
 | Emmanuel Nahayo                  | SANSA Space Science, South Africa              |
 | Hiroaki Toh                      | Kyoto University, Japan                        |
