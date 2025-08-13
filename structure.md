@@ -38,10 +38,10 @@ The Operations Committee advises the Executive Council on the technical issues t
 | Igor Mandic | Member | | | | |
 | Jan Reda | Co-Chair | | | | |
 | Jürgen Matzka | | | Member | | |
-| Manjula Lingala | Memeber | | | |
+| Manjula Lingala | Member | | | |
 | Marcos Vinicius da Silva | Member | | | |
 | Matthew Gard | Member | | Member | |
-| Orsi Baillie | | | | |
+| Orsi Baillie | Member | | | |
 | Roman Leonhardt | Co-Chair | | | | |
 | Seiki Asari | | | | Member | |
 | Shun Imajo | | Member | | | |
