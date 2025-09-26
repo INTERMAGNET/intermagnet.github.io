@@ -12,18 +12,18 @@ title: Participating Observatories (Photographs)
 | API | Apia | [Photo 1](/images/photos/api.jpg) | Western Samoa | MNRE |
 | AQU* | L'Aquila | [Photo 1](/images/photos/aqu.jpg) | Italy | [INGV](http://www.ingv.it/ "Istituto Nazionale di Geofisica e Vulcanologia") |
 | ASC | Ascension Island | [Photo 1](/images/photos/asc.jpg) | United Kingdom | [BGS](http://www.geomag.bgs.ac.uk/ "British Geological Survey") |
-| ASP | Alice Springs | [Photo 1](/images/photos/asp.jpg) | Australia | [GA](http://www.ga.gov.au/earth-monitoring/geomagnetism.html "Geoscience Australia") |
+| ASP | Alice Springs | [Photo 1](/images/photos/asp.jpg) | Australia | [GA](https://geomagnetism.ga.gov.au/ "Geoscience Australia") |
 | BEL | Belsk | [Photo 1](/images/photos/bel.jpg) | Poland | [PAS](http://www.igf.edu.pl/ "Institute of Geophysics Polish Academy of Sciences") |
 | BFE* | Brorfelde | [Photo 1](/images/photos/bfe.jpg) | Denmark | [DTU](http://www.space.dtu.dk/English/Research/Scientific_data_and_models/Magnetic_Ground_Stations.aspx "DTU Space, National Space Institute, Technical University of Denmark") |
 | BLC | Baker Lake | [Photo 1](/images/photos/blc.jpg) | Canada | [GSC](http://www.geomag.nrcan.gc.ca/index-eng.php "Geological Survey of Canada") |
 | BNG* | Bangui | [Photo 1](/images/photos/bng.jpg) | Central African Republic | [IRD](http://www.ird.fr/ "Institut de Recherche pour le Développment") |
 | BOX | Borok | [Photo 1](/images/photos/box.jpg) | Russia | [GCRAS](http://www.gcras.ru/ "Geophysical Center of the Russian Academy of Sciences"), [IPGP](http://www.ipgp.fr "Institut de Physique du Globe de Paris") |
 | CBB | Cambridge Bay | [Photo 1](/images/photos/cbb.jpg) | Canada | [GSC](http://www.geomag.nrcan.gc.ca/index-eng.php "Geological Survey of Canada") |
-| CKI | Cocos (Keeling) Islands | [Photo 1](/images/photos/cki.jpg) | Australia | [GA](http://www.ga.gov.au/earth-monitoring/geomagnetism.html "Geoscience Australia") |
+| CKI | Cocos (Keeling) Islands | [Photo 1](/images/photos/cki.jpg) | Australia | [GA](https://geomagnetism.ga.gov.au/ "Geoscience Australia") |
 | CLF | Chambon la Foret | [Photo 1](/images/photos/clf.jpg) | France | [IPGP](http://www.ipgp.fr "Institut de Physique du Globe de Paris") |
-| CNB | Canberra | [Photo 1](/images/photos/cnb.jpg) | Australia | [GA](http://www.ga.gov.au/earth-monitoring/geomagnetism.html "Geoscience Australia") |
-| CSY | Casey Station | [Photo 1](/images/photos/csy.jpg) | Australia | [GA](http://www.ga.gov.au/earth-monitoring/geomagnetism.html "Geoscience Australia") |
-| CTA | Charters Towers | [Photo 1](/images/photos/cta.jpg) | Australia | [GA](http://www.ga.gov.au/earth-monitoring/geomagnetism.html "Geoscience Australia") |
+| CNB | Canberra | [Photo 1](/images/photos/cnb.jpg) | Australia | [GA](https://geomagnetism.ga.gov.au/ "Geoscience Australia") |
+| CSY | Casey Station | [Photo 1](/images/photos/csy.jpg) | Australia | [GA](https://geomagnetism.ga.gov.au/ "Geoscience Australia") |
+| CTA | Charters Towers | [Photo 1](/images/photos/cta.jpg) | Australia | [GA](https://geomagnetism.ga.gov.au/ "Geoscience Australia") |
 | CZT* | Port Alfred | [Photo 1](/images/photos/czt.jpg) | French Southern and Antarctic Lands | [EOST](http://eost.unistra.fr/ "Ecole et Observatoire des Sciences de la Terre") |
 | DLT | Dalat | [Photo 1](/images/photos/dlt.jpg) | Vietnam | [VAST](http://www.vast.ac.vn "Institute of Geophysics of the Vietnamese Academy of Science and Technology"), [IPGP](http://www.ipgp.fr "Institut de Physique du Globe de Paris") |
 | DOU | Dourbes | [Photo 1](/images/photos/dou.jpg) | Belgium | [RMIB](http://www.meteo.oma.be/ "Royal Meterological Institute of Belgium") |
@@ -34,8 +34,8 @@ title: Participating Observatories (Photographs)
 | FUR | Furstenfeldbruck | [Photo 1](/images/photos/fur.jpg) | Germany | [LMU](http://www.geophysik.uni-muenchen.de/observatory/ "Ludwig Maximilians University Munich") |
 | GAN | Gan | [Photo 1](/images/photos/gan.jpg) | Maldives | [ETH](http://www.geophysics.ethz.ch/ "ETH Zürich, Institut für Geophysik") |
 | GDH | Qeqertarsuaq (Godhavn) | [Photo 1](/images/photos/gdh.jpg) | Greenland | [DTU](http://www.space.dtu.dk/English/Research/Scientific_data_and_models/Magnetic_Ground_Stations.aspx "DTU Space, National Space Institute, Technical University of Denmark") |
-| GNA* | Gnangara | [Photo 1](/images/photos/gna.jpg) | Australia | [GA](http://www.ga.gov.au/earth-monitoring/geomagnetism.html "Geoscience Australia") |
-| GNG | Gingin | [Photo 1](/images/photos/gng.jpg) | Australia | [GA](http://www.ga.gov.au/earth-monitoring/geomagnetism.html "Geoscience Australia") |
+| GNA* | Gnangara | [Photo 1](/images/photos/gna.jpg) | Australia | [GA](https://geomagnetism.ga.gov.au/ "Geoscience Australia") |
+| GNG | Gingin | [Photo 1](/images/photos/gng.jpg) | Australia | [GA](https://geomagnetism.ga.gov.au/ "Geoscience Australia") |
 | GUI | Guimar-Tenerife | [Photo 1](/images/photos/gui.jpg) | Spain | [IGNS](http://www.ign.es/ "Instituto Geografico Nacional") |
 | HAD | Hartland | [Photo 1](/images/photos/had.jpg) | United Kingdom | [BGS](http://www.geomag.bgs.ac.uk/ "British Geological Survey") |
 | HBK | Hartebeesthoek | [Photo 1](/images/photos/hbk.jpg) | South Africa | [SANSA](http://www.sansa.org.za/ "South African National Space Agency") |
@@ -49,19 +49,19 @@ title: Participating Observatories (Photographs)
 | IQA | Iqaluit | [Photo 1](/images/photos/iqa.jpg) | Canada | [GSC](http://www.geomag.nrcan.gc.ca/index-eng.php "Geological Survey of Canada") |
 | JCO | Jim Carrigan Observatory | [Photo 1](/images/photos/jco.jpg) | United States of America | [HAL](http://www.halliburton.com/ "Halliburton Sperry Drilling"), [BGS](http://www.geomag.bgs.ac.uk/ "British Geological Survey") |
 | KAK | Kakioka | [Photo 1](/images/photos/KAK.jpg) | Japan | [JMA](http://www.kakioka-jma.go.jp/ "Japan Meterological Agency") |
-| KDU | Kakadu | [Photo 1](/images/photos/kdu.jpg) | Australia | [GA](http://www.ga.gov.au/earth-monitoring/geomagnetism.html "Geoscience Australia") |
+| KDU | Kakadu | [Photo 1](/images/photos/kdu.jpg) | Australia | [GA](https://geomagnetism.ga.gov.au/ "Geoscience Australia") |
 | KEP | King Edward Point | [Photo 1](/images/photos/kep.bmp) | South Georgia and the South Sandwich Islands | [BGS](http://www.geomag.bgs.ac.uk/ "British Geological Survey") |
 | KNY | Kanoya | [Photo 1](/images/photos/KNY.jpg) | Japan | [JMA](http://www.kakioka-jma.go.jp/ "Japan Meterological Agency") |
 | KOU | Kourou | [Photo 1](/images/photos/kou.jpg) | French Guiana | [IPGP](http://www.ipgp.fr "Institut de Physique du Globe de Paris") |
 | LER | Lerwick | [Photo 1](/images/photos/ler.jpg) | United Kingdom | [BGS](http://www.geomag.bgs.ac.uk/ "British Geological Survey") |
 | LON | Lonjsko Polje | [Photo 1](/images/photos/lon.jpg) | Croatia | [UNIZG](https://www.pmf.unizg.hr/geof/en "Department of Geophysics, Faculty of Science, University of Zagreb") |
-| LRM | Learmonth | [Photo 1](/images/photos/lrm.jpg) | Australia | [GA](http://www.ga.gov.au/earth-monitoring/geomagnetism.html "Geoscience Australia") |
+| LRM | Learmonth | [Photo 1](/images/photos/lrm.jpg) | Australia | [GA](https://geomagnetism.ga.gov.au/ "Geoscience Australia") |
 | LYC | Lycksele | [Photo 1](/images/photos/lyc.jpg) | Sweden | [SGU](http://www.sgu.se "Geological Survey of Sweden") |
 | LZH* | Lanzhou | [Photo 1](/images/photos/lzh.jpg) | China | [CEA](http://www.cea.gov.cn "China Earthquake Administration"), [IPGP](http://www.ipgp.fr "Institut de Physique du Globe de Paris") |
 | MAB | Manhay | [Photo 1](/images/photos/mab.jpg) | Belgium | [RMIB](http://www.meteo.oma.be/ "Royal Meterological Institute of Belgium") |
-| MAW | Mawson | [Photo 1](/images/photos/maw.jpg) | Antarctica | [GA](http://www.ga.gov.au/earth-monitoring/geomagnetism.html "Geoscience Australia") |
+| MAW | Mawson | [Photo 1](/images/photos/maw.jpg) | Antarctica | [GA](https://geomagnetism.ga.gov.au/ "Geoscience Australia") |
 | MBO* | Mbour | [Photo 1](/images/photos/mbo.jpg) | Senegal | [IPGP](http://www.ipgp.fr "Institut de Physique du Globe de Paris"), [IRD](http://www.ird.fr/ "Institut de Recherche pour le Développment") |
-| MCQ | Macquarie Island | [Photo 1](/images/photos/mcq.jpg) | Australia | [GA](http://www.ga.gov.au/earth-monitoring/geomagnetism.html "Geoscience Australia") |
+| MCQ | Macquarie Island | [Photo 1](/images/photos/mcq.jpg) | Australia | [GA](https://geomagnetism.ga.gov.au/ "Geoscience Australia") |
 | MEA | Meanook | [Photo 1](/images/photos/mea.jpg) | Canada | [GSC](http://www.geomag.nrcan.gc.ca/index-eng.php "Geological Survey of Canada") |
 | MMB | Memambetsu | [Photo 1](/images/photos/MMB.jpg) | Japan | [JMA](http://www.kakioka-jma.go.jp/ "Japan Meterological Agency") |
 | NAQ | Narsarsuaq | [Photo 1](/images/photos/naq.jpg) | Greenland | [DTU](http://www.space.dtu.dk/English/Research/Scientific_data_and_models/Magnetic_Ground_Stations.aspx "DTU Space, National Space Institute, Technical University of Denmark") |
