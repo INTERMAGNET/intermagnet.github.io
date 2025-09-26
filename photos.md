@@ -19,8 +19,10 @@ title: Participating Observatories (Photographs)
 | BNG* | Bangui | [Photo 1](/images/photos/bng.jpg) | Central African Republic | [IRD](http://www.ird.fr/ "Institut de Recherche pour le Développment") |
 | BOX | Borok | [Photo 1](/images/photos/box.jpg) | Russia | [GCRAS](http://www.gcras.ru/ "Geophysical Center of the Russian Academy of Sciences"), [IPGP](http://www.ipgp.fr "Institut de Physique du Globe de Paris") |
 | CBB | Cambridge Bay | [Photo 1](/images/photos/cbb.jpg) | Canada | [GSC](http://www.geomag.nrcan.gc.ca/index-eng.php "Geological Survey of Canada") |
+| CKI | Cocos (Keeling) Islands | [Photo 1](/images/photos/cki.jpg) | Australia | [GA](http://www.ga.gov.au/earth-monitoring/geomagnetism.html "Geoscience Australia") |
 | CLF | Chambon la Foret | [Photo 1](/images/photos/clf.jpg) | France | [IPGP](http://www.ipgp.fr "Institut de Physique du Globe de Paris") |
 | CNB | Canberra | [Photo 1](/images/photos/cnb.jpg) | Australia | [GA](http://www.ga.gov.au/earth-monitoring/geomagnetism.html "Geoscience Australia") |
+| CSY | Casey Station | [Photo 1](/images/photos/csy.jpg) | Australia | [GA](http://www.ga.gov.au/earth-monitoring/geomagnetism.html "Geoscience Australia") |
 | CTA | Charters Towers | [Photo 1](/images/photos/cta.jpg) | Australia | [GA](http://www.ga.gov.au/earth-monitoring/geomagnetism.html "Geoscience Australia") |
 | CZT* | Port Alfred | [Photo 1](/images/photos/czt.jpg) | French Southern and Antarctic Lands | [EOST](http://eost.unistra.fr/ "Ecole et Observatoire des Sciences de la Terre") |
 | DLT | Dalat | [Photo 1](/images/photos/dlt.jpg) | Vietnam | [VAST](http://www.vast.ac.vn "Institute of Geophysics of the Vietnamese Academy of Science and Technology"), [IPGP](http://www.ipgp.fr "Institut de Physique du Globe de Paris") |
@@ -33,6 +35,7 @@ title: Participating Observatories (Photographs)
 | GAN | Gan | [Photo 1](/images/photos/gan.jpg) | Maldives | [ETH](http://www.geophysics.ethz.ch/ "ETH Zürich, Institut für Geophysik") |
 | GDH | Qeqertarsuaq (Godhavn) | [Photo 1](/images/photos/gdh.jpg) | Greenland | [DTU](http://www.space.dtu.dk/English/Research/Scientific_data_and_models/Magnetic_Ground_Stations.aspx "DTU Space, National Space Institute, Technical University of Denmark") |
 | GNA* | Gnangara | [Photo 1](/images/photos/gna.jpg) | Australia | [GA](http://www.ga.gov.au/earth-monitoring/geomagnetism.html "Geoscience Australia") |
+| GNG | Gingin | [Photo 1](/images/photos/gng.jpg) | Australia | [GA](http://www.ga.gov.au/earth-monitoring/geomagnetism.html "Geoscience Australia") |
 | GUI | Guimar-Tenerife | [Photo 1](/images/photos/gui.jpg) | Spain | [IGNS](http://www.ign.es/ "Instituto Geografico Nacional") |
 | HAD | Hartland | [Photo 1](/images/photos/had.jpg) | United Kingdom | [BGS](http://www.geomag.bgs.ac.uk/ "British Geological Survey") |
 | HBK | Hartebeesthoek | [Photo 1](/images/photos/hbk.jpg) | South Africa | [SANSA](http://www.sansa.org.za/ "South African National Space Agency") |
