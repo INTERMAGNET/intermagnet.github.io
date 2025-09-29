@@ -7,7 +7,7 @@ title: INTERMAGNET Data - conditions of use
 
 The data made available through INTERMAGNET are provided for non-commercial use.  For commercial use or sale or bulk distribution to third parties please obtain written permission from the [institute](metadata/#/institutes) operating the observatory and their [contact person](metadata/#/imos).
 
-INTERMAGNET data and plots are available, via the [INTERMAGNET data portal](data_portal). The availability of preliminary data files is dependent on the publishing delay of participating institutes. Data from observatories that are not members of INTERMAGNET and data prior to INTERMAGNET commencing operation may be available via one of the World Data Centres for Geomagnetism (WDC) or from the observatory contact of the specific Intermagnet Magnetic Observatory, which can be found at [https://intermagnet.org/metadata/#/imos](https://intermagnet.org/metadata/#/imos).
+INTERMAGNET data and plots are available, via the [INTERMAGNET data portal](data_download). The availability of preliminary data files is dependent on the publishing delay of participating institutes. Data from observatories that are not members of INTERMAGNET and data prior to INTERMAGNET commencing operation may be available via one of the World Data Centres for Geomagnetism (WDC) or from the observatory contact of the specific Intermagnet Magnetic Observatory, which can be found at [https://intermagnet.org/metadata/#/imos](https://intermagnet.org/metadata/#/imos).
 
 The member institutes of INTERMAGNET invest considerable resources to operate their magnetic observatories to INTERMAGNET standards. It is important that the institutes producing the data have a measure of the scientific return on their investment.
 
