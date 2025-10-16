@@ -32,6 +32,7 @@ The Operations Committee advises [the Executive Council](#executive-council) on 
 | Igor Mandic              | igor.mandic@gfz.hr             | Croatia                  |
 | Jan Reda                 | jreda@igf.edu.pl               | Poland                   |
 | Jürgen Matzka            | juergen.matzka@gfz.de          | Germany                  |
+| Kusumita Arora           | karora_ngri@yahoo.co.uk        | India                    |
 | Manjula Lingala          | manjulalingala@gmail.com       | India                    |
 | Marcos Vinicius da Silva | mvsilva@gfz.de                 | Germany                  |
 | Matthew Gard             | matthew.gard@ga.gov.au         | Australia                |
