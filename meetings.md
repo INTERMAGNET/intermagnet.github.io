@@ -3,6 +3,7 @@ title: Meetings
 ---
 
 ## Lisbon 2025
+
 | Title  | Author |
 |--------|--------|
 |[IMO report Lisbon 2025 (PDF)](/meetings/2025-Lisbon/Lewis_INTERMAGNETMeetingReportLisbon2025.pdf)|A. Lewis|
@@ -98,7 +99,7 @@ title: Meetings
 | Title  | Author |
 |--------|--------|
 |[IMO report Vienna 2018 (PDF)](/meetings/2018-Wien/Flower_ImagMeetingReportVienna2018.pdf)|S. Flower|
-|[INTERMAGNET Meeting Minutes Vienna 2018 (PDF)](/meetings/2018-Wien/Lewis_IMAGMinutesVienna-public-20181208.pdf/)|A. Lewis|
+|[INTERMAGNET Meeting Minutes Vienna 2018 (PDF)](/meetings/2018-Wien/Lewis_IMAGMinutesVienna-public-20181208.pdf)|A. Lewis|
 |[Report of 1-min Definitive Data collection (PDF)](/meetings/2018-Wien/Reda_DD_1min_1sec_collection_report_JRD.pdf)|J. Reda|
 |[FDSNWS - Federation of Digital Seismic Network Web Service (PDF)](/meetings/2018-Wien/Blais_FDSNWS_CB.pdf)|C. Blais|
 |[Geomagnetic Metadata - A metadata system for the global observatory community (PPTX)](/meetings/2018-Wien/Flower_GeomagneticMetadata.pptx)|S. Flower|
