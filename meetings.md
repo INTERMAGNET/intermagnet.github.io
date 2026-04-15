@@ -3,6 +3,7 @@ title: Meetings
 ---
 
 ## Lisbon 2025
+
 | Title  | Author |
 |--------|--------|
 |[IMO report Lisbon 2025 (PDF)](/meetings/2025-Lisbon/Lewis_INTERMAGNETMeetingReportLisbon2025.pdf)|A. Lewis|
