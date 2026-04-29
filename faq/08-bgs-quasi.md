@@ -1,11 +1,11 @@
 ---
-title: What is the BGS method for creating Quasi-Definitive Data ?
-layout: faq
+title: What is the BGS method for creating Quasi-Definitive Data?
+permalink: /faq/bgs-quasi.html
 ---
 
-Note:  We can use this method because we have great faith in the stability of the variometer instruments. It would be much more difficult if the baselines were trending more rapidly. As a rough rule of thumb use the following procedure on a year’s worth of historic data to check whether this method is suitable:
+Note:  We can use this method because we have great faith in the stability of the variometer instruments. It would be much more difficult if the baselines were trending more rapidly. As a rough rule of thumb use the following procedure on a year's worth of historic data to check whether this method is suitable:
 
-- Calculate an extrapolated baseline for a period of time where you already have a definitive baseline, starting the ‘extrapolation’ at the time of the first absolute observation. Record the difference between the extrapolated baseline and the true (definitive) baseline at the time of the next absolute observation.
+- Calculate an extrapolated baseline for a period of time where you already have a definitive baseline, starting the 'extrapolation' at the time of the first absolute observation. Record the difference between the extrapolated baseline and the true (definitive) baseline at the time of the next absolute observation.
 - Repeat this calculation for a number of absolute observations throughout the year
 
 If these differences are less than 2.5nT, then your baselines should be stable enough to use this method.
@@ -32,3 +32,7 @@ There are two parts to the production of quasi-definitive data, which incorporat
 
 - Real time and next day processing to be carried out automatically. The processes read in the most up-to-date baselines (part 2) and the corrected one-minute (or one-second) variometer data (part 1) to produce real time and next day data that should meet the QD definition that has been established by INTERMAGNET.
 - The QD data to be prepared and delivered to INTERMAGNET manually on a next (working) day basis following the completion of all necessary checks as described.
+
+---
+
+[Back to FAQ Index](faqs.html)

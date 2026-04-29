@@ -90,3 +90,5 @@ title: Yearbooks
 | Geological Survey of Sweden | 2002 | [PDF](/yearbooks/sgu_cb31_2002.pdf "Geological Survey of Sweden, annual report 2002") |
 | Geological Survey of Sweden | 2003 | [PDF](/yearbooks/sgu_cb32_2003.pdf "Geological Survey of Sweden, annual report 2003") |
 | Geological Survey of Sweden | 2004 | [PDF](/yearbooks/sgu_cb33_2004.pdf "Geological Survey of Sweden, annual report 2004") |
+
+---

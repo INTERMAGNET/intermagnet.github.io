@@ -63,3 +63,5 @@ Software to check INTERMAGNET 1 minute definitive data, as described in the INTE
 ### [GeomagLogger](https://git.gfz-potsdam.de/mors/GeomagLogger/)
 
 A C++ software package for logging data at geomagnetic observatories.
+
+---

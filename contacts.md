@@ -58,3 +58,4 @@ The GINs are the collection points for data within INTERMAGNET.
 | Paris     | Virgine Maury | vmaury@ipgp.fr                  |
 
 
+---

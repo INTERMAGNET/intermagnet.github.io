@@ -1,6 +1,6 @@
 ---
-title: What are the geomagnetic components ?
-layout: faq
+title: What are the geomagnetic components?
+permalink: /faq/geomagnetic-comp.html
 ---
 
 The Earth's magnetic field is a vector quantity; at each point in space it has a strength and a direction. To completely describe it we need three quantities. These may be:
@@ -162,3 +162,7 @@ The seven elements are related through the following simple expressions.
         </mtr>
     </mtable>
 </math>
+
+---
+
+[Back to FAQ Index](faqs.html)

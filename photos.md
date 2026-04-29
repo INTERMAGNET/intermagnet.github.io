@@ -91,3 +91,5 @@ title: Participating Observatories (Photographs)
 | UPS | Uppsala | [Photo 1](/images/photos/ups.jpg) | Sweden | [SGU](http://www.sgu.se "Geological Survey of Sweden") |
 | WNG | Wingst | [Photo 1](/images/photos/wng.jpg) | Germany | [GFZ](http://www.gfz-potsdam.de/en/section/earths-magnetic-field/infrastructure/observatories/ "Helmholtz Centre Potsdam GFZ German Research Centre for Geosciences") |
 | YAK | Yakutsk | [Photo 1](/images/photos/yak.jpg) | Russia | [IKFIA](http://ikfia.ysn.ru/english "Yu. G. Shafer Institute of Cosmophysical Research and Aeronomy SB RAS"), [GFZ](http://www.gfz-potsdam.de/en/section/earths-magnetic-field/infrastructure/observatories/ "Helmholtz Centre Potsdam GFZ German Research Centre for Geosciences") |
+
+---

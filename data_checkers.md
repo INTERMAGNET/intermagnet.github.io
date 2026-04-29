@@ -26,3 +26,5 @@ The Data Checking Task Team members are listed on the [Organizational Structure]
 The list of IMOs and responsible Data Checking Task Team members can change from year to year. Current information is provided to IMOs annually in  a call-for-data 
 
 INTERMAGNET gratefully acknowledges the work done by the members of the Data Checking Task Team and their institutes.
+
+---

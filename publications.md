@@ -28,3 +28,5 @@ title: Publications
 | [INTERMAGNET Definitive One-second Data Standard (PDF)](/docs/technical/im_tn_06_v1_0.pdf)  | C. Turbitt |
 | [INTERMAGNET CDF data format - ImagCDF (PDF)](/docs/technical/im_tn_8_ImagCDF.pdf)  | S. Flower |
 | [INTERMAGNET Web Data Delivery (PDF)](/docs/technical/im_tn_9_WebDataDelivery.pdf)  | S. Flower |
+
+---

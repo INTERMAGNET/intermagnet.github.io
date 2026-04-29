@@ -1,6 +1,6 @@
 ---
-title: What are the INTERMAGNET data types ?
-layout: faq
+title: What are the INTERMAGNET data types?
+permalink: /faq/intermagnet-data-types.html
 ---
 
 INTERMAGNET has used two data formats for the dissemination of non-definitive data: [INTERMAGNET Minute Mean Format (IMF)](https://tech-man.intermagnet.org/stable/appendices/dataformats.html#intermagnet-gin-dissemination-format-for-minute-values-imfv){:target="_blank"} and [IAGA-2002](https://www.ngdc.noaa.gov/IAGA/vdat/IAGA2002/iaga2002format.html){:target="_blank"} format. The IMF format is being phased out. The data types in the two formats are:
@@ -19,3 +19,7 @@ INTERMAGNET has used two data formats for the dissemination of non-definitive da
 | IAGA | Definitive | The IAGA-2002 format does not describe the data types. |
 
 The two data types quasi-definitive and definitive are well defined and have the same meaning when used in either of the two data types. The remaining data types are less clearly defined. Some computer software uses the IMF reported data type interchangeably with the variation data type, also the IMF adjusted data type with the IAGA-2002 provisional data type, and this is the policy used in INTERMAGNET.
+
+---
+
+[Back to FAQ Index](faqs.html)

@@ -1,6 +1,6 @@
 ---
-title: What is quasi-definitive data ?
-layout: faq
+title: What is quasi-definitive data?
+permalink: /faq/what-is-quasi.html
 ---
 
 INTERMAGNET has defined a standard for a data type called quasi-definitive. As the name implies, the data should be close to the expected definitive value, but is to be delivered more rapidly than an observatory's annual definitive data. This initiative will be useful for a number of scientific activities, where timely and close-to-definitive data is essential. For example, quasi-definitive data will be particularly useful in joint analyses of geomagnetic and other phenomena, together with data measured by satellites. Quasi-definitive data are 1-minute or 1-second data (observatories are encouraged to produce both minute and second data) that can be submitted to INTERMAGNET as (H, D, Z) or (X, Y, Z) and have the following properties:
@@ -12,3 +12,7 @@ INTERMAGNET has defined a standard for a data type called quasi-definitive. As t
 Point 3 is checked a posteriori by comparing quasi-definitive and definitive data from the previous year.
 
 Observatories are strongly encouraged to submit quasi-definitive data that is thoroughly controlled, i.e. de-spiked, free from corrupted data, data gaps filled in from back-up systems, and with the best possible baseline at the time of submission. Submission of quasi-definitive data should not be seen as having satisfied the requirements for definitive data. The annual definitive data, again thoroughly controlled and with a baseline based on a full year of absolute measurements, shall be submitted in the formats for definitive data at latest by the deadline agreed by INTERMAGNET.
+
+---
+
+[Back to FAQ Index](faqs.html)

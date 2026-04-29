@@ -6,6 +6,3 @@ defaults:
   -
     values:
       layout: "default"
-collections:
-  faq:
-    output: true

@@ -96,3 +96,4 @@ to that GIN.
 
 Contact information is available on the [Contacts](contacts.md#geomagnetic-information-nodes) page
 
+---

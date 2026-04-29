@@ -29,7 +29,7 @@
     - name: Organizational Structure
       href: /structure.html
     - name: FAQ
-      href: /faq/
+      href: /faq/faqs.html
     - separator: true
     - name: Technical Reference Manual Online
       href: https://tech-man.intermagnet.org/stable/

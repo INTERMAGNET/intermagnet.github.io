@@ -24,3 +24,5 @@ More information on the application form can be obtained from the IMO sub-commit
 Other documents Available
 
 [INTERMAGNET Technical Reference Manual](http://www.intermagnet.org/publication-software/technicalsoft-eng.php)
+
+---

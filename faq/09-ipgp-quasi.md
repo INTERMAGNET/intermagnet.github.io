@@ -1,6 +1,6 @@
 ---
-title: What is the IPGP method for creating Quasi-Definitive Data ?
-layout: faq
+title: What is the IPGP method for creating Quasi-Definitive Data?
+permalink: /faq/ipgp-quasi.html
 ---
 
 Quasi-definitive data are calculated every month, shortly after the end of the month. The processing is very similar to that for producing definitive data, except that the time interval for the baseline calculation is shorter (a few months instead of one year or more) and the data preprocessing (despiking, etc.) is less thorough.
@@ -17,3 +17,7 @@ References:
 
 - Peltier, A. and A. Chulliat, On the feasibility of promptly producing quasi-definitive magnetic observatory data, Earth Planets Space, 62(2), e5-e8, doi:10.5047/eps.2010.02.002, 2010.
 - De Boor, C., A Practical Guide to Splines, Springer-Verlag, New York, 1978.
+
+---
+
+[Back to FAQ Index](faqs.html)
