@@ -27,7 +27,7 @@ The Operations Committee advises the Executive Council on the technical issues t
 
 | Name | Definitive Data | GINS | IMO Applications and Standards | Technical Manual | Instrumentation and Data Acquisition |
 |------|-----------------|----------------------------|------------------|------------------|--------------------------------------|
-| András Csontos | | | | Member | |
+| András Attila Csontos | | | | Member | |
 | Andrew Lewis | | | Deputy Chair | Member | |
 | Benoit Heumez | Deputy Chair | | Member | | |
 | Brendan Geels | | Member | | | |
