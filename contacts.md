@@ -21,7 +21,7 @@ The Operations Committee advises [the Executive Council](#executive-council) on 
 
 | Name                     | Email                          | Country                  |
 |--------------------------|--------------------------------|--------------------------|
-| András Csontos           | csontos.andras@epss.hun-ren.hu | Hungary                  |
+| András Attila Csontos    | csontos.andras@epss.hun-ren.hu | Hungary                  |
 | Andrew Lewis             | andrew.lewis@ga.gov.au         | Australia                |
 | Benoit Heumez            | heumez@ipgp.fr                 | France                   |
 | Brendan Geels            | bgeels@usgs.gov                | United States of America |
