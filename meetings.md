@@ -7,7 +7,7 @@ title: Meetings
 | Title  | Author |
 |--------|--------|
 |[IMO report Lisbon 2025 (PDF)](/meetings/2025-Lisbon/Lewis_INTERMAGNETMeetingReportLisbon2025.pdf)|A. Lewis|
-|INTERMAGNET Minutes Lisbon Sep 2025 (PDF)|A. Lewis, S. Bracke, D. Boteler, S. Flower, R. Leonhardt, J. Matzka, J. Reda, C. Turbitt|
+|[INTERMAGNET Minutes Lisbon Sep 2025 (PDF)](/meetings/2025-Lisbon/INTERMAGNETMeetingPublicMinutesLisbonSep2025.pdf)|A. Lewis, S. Bracke, D. Boteler, S. Flower, R. Leonhardt, J. Matzka, J. Reda, C. Turbitt|
 |[INTERMAGNET Real-time data (PPTX)](/meetings/2025-Lisbon/Flower_RealTimeDataInIntermagnet.pptx)|S. Flower|
 |[Geomagnetic Activity Viewer (PPTX)](/meetings/2025-Lisbon/Flower_GeomagneticActivityViewer.pptx)|S. Flower|
 |[ESA Scout NanoMagSat Mission (PDF)](/meetings/2025-Lisbon/Hulot_NanoMagSat_2025.pdf)|G. Hulot|
