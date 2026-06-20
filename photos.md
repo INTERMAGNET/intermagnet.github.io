@@ -28,7 +28,6 @@ title: Participating Observatories (Photographs)
 | DLT | Dalat | [Photo 1](/images/photos/dlt.jpg) | Vietnam | [VAST](http://www.vast.ac.vn "Institute of Geophysics of the Vietnamese Academy of Science and Technology"), [IPGP](http://www.ipgp.fr "Institut de Physique du Globe de Paris") |
 | DOU | Dourbes | [Photo 1](/images/photos/dou.jpg) | Belgium | [RMIB](http://www.meteo.oma.be/ "Royal Meterological Institute of Belgium") |
 | DRV* | Dumont d'Urville | [Photo 1](/images/photos/drv.jpg) | Antarctica | [EOST](http://eost.unistra.fr/ "Ecole et Observatoire des Sciences de la Terre") |
-| EBR | Ebro | [Photo 1](/images/photos/ebr.png) | Spain | [OEB](http://www.obsebre.es/ "Observatori de l'Ebre - Instituto Geografico Nacional") |
 | ESK | Eskdalemuir | [Photo 1](/images/photos/esk.jpg) | United Kingdom | [BGS](http://www.geomag.bgs.ac.uk/ "British Geological Survey") |
 | FCC | Fort Churchill | [Photo 1](/images/photos/fcc.jpg) | Canada | [GSC](http://www.geomag.nrcan.gc.ca/index-eng.php "Geological Survey of Canada") |
 | FUR | Furstenfeldbruck | [Photo 1](/images/photos/fur.jpg) | Germany | [LMU](http://www.geophysik.uni-muenchen.de/observatory/ "Ludwig Maximilians University Munich") |
@@ -50,7 +49,6 @@ title: Participating Observatories (Photographs)
 | JCO | Jim Carrigan Observatory | [Photo 1](/images/photos/jco.jpg) | United States of America | [HAL](http://www.halliburton.com/ "Halliburton Sperry Drilling"), [BGS](http://www.geomag.bgs.ac.uk/ "British Geological Survey") |
 | KAK | Kakioka | [Photo 1](/images/photos/KAK.jpg) | Japan | [JMA](http://www.kakioka-jma.go.jp/ "Japan Meterological Agency") |
 | KDU | Kakadu | [Photo 1](/images/photos/kdu.jpg) | Australia | [GA](https://geomagnetism.ga.gov.au/ "Geoscience Australia") |
-| KEP | King Edward Point | [Photo 1](/images/photos/kep.bmp) | South Georgia and the South Sandwich Islands | [BGS](http://www.geomag.bgs.ac.uk/ "British Geological Survey") |
 | KNY | Kanoya | [Photo 1](/images/photos/KNY.jpg) | Japan | [JMA](http://www.kakioka-jma.go.jp/ "Japan Meterological Agency") |
 | KOU | Kourou | [Photo 1](/images/photos/kou.jpg) | French Guiana | [IPGP](http://www.ipgp.fr "Institut de Physique du Globe de Paris") |
 | LER | Lerwick | [Photo 1](/images/photos/ler.jpg) | United Kingdom | [BGS](http://www.geomag.bgs.ac.uk/ "British Geological Survey") |
@@ -76,7 +74,6 @@ title: Participating Observatories (Photographs)
 | PST | Port Stanley | [Photo 1](/images/photos/pst.jpg) | Falkland Islands | [BGS](http://www.geomag.bgs.ac.uk/ "British Geological Survey") |
 | QSB* | Qsaybeh | [Photo 1](/images/photos/qsb.jpg) | Lebanon | [NCGR](http://www.cnrs.edu.lb/research/earthmagnetism.html "National Centre for Geophysical Research"), [IPGP](http://www.ipgp.fr "Institut de Physique du Globe de Paris") |
 | RES | Resolute Bay | [Photo 1](/images/photos/res.jpg) | Canada | [GSC](http://www.geomag.nrcan.gc.ca/index-eng.php "Geological Survey of Canada") |
-| SBL | Sable Island | [Photo 1](/images/photos/sbl.bmp) | Canada | [BGS](http://www.geomag.bgs.ac.uk/ "British Geological Survey") |
 | SFS | San Fernando | [Photo 1](/images/photos/sfs.jpg) | Spain | [RIOA](http://www.roa.es/ "Real Instituto y Observatorio de la Armada") |
 | SPG | Saint Petersburg | [Photo 1](/images/photos/spg.png) | Russia | [GCRAS](http://www.gcras.ru/ "Geophysical Center of the Russian Academy of Sciences") |
 | SPT | San Pablo-Toledo | [Photo 1](/images/photos/Observatorio_San_Pablo_SPT_Spain.jpg) | Spain | [IGNS](http://www.ign.es/ "Instituto Geografico Nacional") |

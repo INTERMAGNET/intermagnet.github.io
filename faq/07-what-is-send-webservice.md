@@ -5,11 +5,11 @@ permalink: /faq/what-is-send-webservice.html
 
 The Paris and Edinburgh GIN both offer a web service for sending data to INTERMAGNET. The web service can be used interactively, but it is more likely that you will want to automate the delivery of data (possibly integrating the transmission to INTERMAGNET into your existing data processing).
 
-The web service is documented here: [http://intermagnet.org/publications/im_tn_9_WebDataDelivery.pdf](http://intermagnet.org/publications/im_tn_9_WebDataDelivery.pdf){:target="_blank"}.
+The web service is documented in [INTERMAGNET Technical Note #9](/docs/technical/im_tn_9_WebDataDelivery.pdf)
 
 For access to the Edinburgh GIN web service contact the [Edinburgh GIN manager](mailto:e_ginman@bgs.ac.uk).
 
-For access and information on the Paris GIN web service, contact the [Paris GIN manager](mailto:vmaury@ipgp.fr).
+For access and information on the Paris GIN web service, contact the [Paris GIN manager](mailto:parisgin@ipgp.fr).
 
 ---
 
