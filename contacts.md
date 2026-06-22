@@ -17,7 +17,7 @@ The Executive Council establishes policy for INTERMAGNET, deals with questions o
 
 ## Operations Committee
 
-The Operations Committee advises [the Executive Council](#executive-council) on the technical issues that arise within INTERMAGNET. This includes matters relating to instrumentation, data processing and communications. The Committee is also responsible for establishing and maintaining standards and formats for the global exchange of data under the INTERMAGNET programme, for designing and publishing [the INTERMAGNET Technical Manual](/docs/Technical-Manual/technical_manual.pdf) and producing [annual DOI data sets](/data_conditions.md).
+The Operations Committee advises [the Executive Council](#executive-council) on the technical issues that arise within INTERMAGNET. This includes matters relating to instrumentation, data processing and communications. The Committee is also responsible for establishing and maintaining standards and formats for the global exchange of data under the INTERMAGNET programme, for designing and publishing [the INTERMAGNET Technical Manual](https://tech-man.intermagnet.org/) and producing [annual DOI data sets](/data_conditions.md).
 
 | Name                     | Email                          | Country                  |
 |--------------------------|--------------------------------|--------------------------|
@@ -28,7 +28,7 @@ The Operations Committee advises [the Executive Council](#executive-council) on 
 | Charles Blais            | charles.blais@canada.ca        | Canada                   |
 | Chris Turbitt            | c.turbitt@bgs.ac.uk            | United Kingdom           |
 | David Calp               | david.calp@NRCan-RNCan.gc.ca   | Canada                   |
-| Emmanuel Nahayo          | enahayo@sansa.org.za           | South Arfica             |
+| Emmanuel Nahayo          | enahayo@sansa.org.za           | South Africa             |
 | Igor Mandic              | igor.mandic@gfz.hr             | Croatia                  |
 | Jan Reda                 | jreda@igf.edu.pl               | Poland                   |
 | Jürgen Matzka            | juergen.matzka@gfz.de          | Germany                  |
@@ -49,13 +49,13 @@ The Operations Committee advises [the Executive Council](#executive-council) on 
 ## Geomagnetic Information Nodes
 The GINs are the collection points for data within INTERMAGNET.
 
-| GIN       | Manager       | Email                           |
-|-----------|---------------|---------------------------------|
-| Edinburgh | Simon Flower  | e_ginman@mail.nmh.ac.uk         |
-| Golden    | Brendan Geels | bgeels@usgs.gov                 |
-| Kyoto     | Shun Imajo    | wdc-service@kugi.kyoto-u.ac.jp  |
-| Ottawa    | Charles Blais | charles.blais@canada.ca         |
-| Paris     | Virgine Maury | vmaury@ipgp.fr                  |
+| GIN       | Manager         | Email                           |
+|-----------|-----------------|---------------------------------|
+| Edinburgh | Simon Flower    | e_ginman@mail.nmh.ac.uk         |
+| Golden    | Brendan Geels   | bgeels@usgs.gov                 |
+| Kyoto     | Shun Imajo      | wdc-service@kugi.kyoto-u.ac.jp  |
+| Ottawa    | Charles Blais   | charles.blais@canada.ca         |
+| Paris     | Virginie Maury  | parisgin@ipgp.fr                |
 
 
 ---

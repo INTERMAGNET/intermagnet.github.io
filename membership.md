@@ -2,7 +2,7 @@
 title: Membership Application Form
 ---
 
-An Institution must apply for membership in INTERMAGNET by emailing a completed application form to Christopher Turbitt.
+An Institution must apply for membership in INTERMAGNET by emailing a completed application form to [Christopher Turbitt.](contacts.md#operations-committee)
 
 Application for membership implies that the Institution will agree to abide by the INTERMAGNET Principles, Conditions and Standards as set out in the Technical Manual.
 
@@ -16,13 +16,13 @@ More information on the application form can be obtained from the IMO sub-commit
 <div class="alert alert-info" role="alert">
 <p>The application form is available in 2 formats. Download the application form using the links below.</p>
 
-<a href="/docs/INTERMAGNET_Observatory_Application_Form_v3.3.docx">Microsoft Word</a>
+<a href="/docs/INTERMAGNET_Observatory_Application_Form_v3.3.docx">Microsoft_Word</a>
 
 <a href="/docs/INTERMAGNET_Observatory_Application_Form_v3.3.pdf">PDF</a>
 </div>
 
 Other documents Available
 
-[INTERMAGNET Technical Reference Manual](http://www.intermagnet.org/publication-software/technicalsoft-eng.php)
+[INTERMAGNET Technical Reference Manual](https://tech-man.intermagnet.org/)
 
 ---
