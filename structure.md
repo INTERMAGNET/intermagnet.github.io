@@ -67,10 +67,12 @@ team are as follows:
 | Barbara Leichter                 | Geopshere, Austria                             |
 | Benoit Heumez                    | Institut de Physique du Globe de Paris, France |
 | David Calp                       | Natural Resources Canada                       |
+| Domingo Rosales                  | Instituto Geofisico del Peru                   |
 | Emmanuel Nahayo                  | SANSA Space Science, South Africa              |
 | Hiroaki Toh                      | Kyoto University, Japan                        |
 | Igor Mandic                      | University of Zagreb, Croatia                  |
 | Jan Reda                         | Institute of Geophysics, Polish Ac. of Science |
+| Jan Wittke                       | Geological Survey of Sweden                    |
 | Kusumita Arora                   | National Geophysical Research Institute, India |
 | Marcos Vinicius da Silva         | GFZ Helmholtz Centre for Geosciences           |
 | Matthew Gard                     | Geoscience Australia                           |
