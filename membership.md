@@ -16,9 +16,9 @@ More information on the application form can be obtained from the IMO sub-commit
 <div class="alert alert-info" role="alert">
 <p>The application form is available in 2 formats. Download the application form using the links below.</p>
 
-<a href="/docs/INTERMAGNET_Observatory_Application_Form_v3.3.docx">Microsoft_Word</a>
+<a href="/docs/INTERMAGNET_Observatory_Application_Form_v3.4.docx">Microsoft_Word</a>
 
-<a href="/docs/INTERMAGNET_Observatory_Application_Form_v3.3.pdf">PDF</a>
+<a href="/docs/INTERMAGNET_Observatory_Application_Form_v3.4.pdf">PDF</a>
 </div>
 
 Other documents Available
