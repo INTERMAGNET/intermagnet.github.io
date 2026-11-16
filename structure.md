@@ -93,7 +93,6 @@ to that GIN.
 | Golden | United States Geological Survey | Brendan Geels
 | Kyoto | Kyoto University | Shun Imajo
 | Ottawa | Natural Resources Canada | Charles Blais
-| Paris | Institut de Physique du Globe de Paris | Virginie Maury
 
 
 Contact information is available on the [Contacts](contacts.md#geomagnetic-information-nodes) page
