@@ -35,7 +35,8 @@ Individual INTERMAGNET institutes may have broader license conditions; it is inc
 
 | Institute | Observatories | License details |
 |-----------|---------------|-----------------|
-| BCMT (IPGP and EOST) | AAE, AMS, BNG, CLF, CZT, DLT, DMC, DRV, IPM, KOU, MBO, PAF, PHU, PPT, PSM, TAN, VLJ | [http://www.bcmt.fr/termsofuse.html](http://www.bcmt.fr/termsofuse.html) |
+| BCMT (IPGP and EOST)        | AAE, AMS, BNG, CLF, CZT, DLT, DMC, DRV, IPM, KOU, MBO, PAF, PHU, PPT, PSM, TAN, VLJ | [http://www.bcmt.fr/termsofuse.html](http://www.bcmt.fr/termsofuse.html) |
+| Geoscience Australia (GA)   | ASP, CKI, CNB, CSY, CTA, GNG, KDU, LRM, MAW, MCQ                                    | [https://dx.doi.org/10.26186/144644](https://dx.doi.org/10.26186/144644) |
 
 ## Observatories with temporary data embargos
 
